@@ -59,7 +59,7 @@
 					<div class="auto-container clearfix">
 						<!--Info-->
 						<div class="logo-outer">
-							<div class="logo"><a href="index.html"><img src="images/mygenic-logo-tm.png" alt="" title=""></a></div>
+							<div class="logo"><a href="index.php"><img src="images/mygenic-logo-tm.png" alt="" title=""></a></div>
 						</div>
 						<!--Nav Box-->
 						<div class="nav-outer clearfix">
@@ -145,7 +145,7 @@
 				<div class="auto-container clearfix">
 					<!--Logo-->
 					<div class="logo pull-left">
-						<a href="index.html" class="img-responsive"><img src="images/logo-small.png" alt="" title=""></a>
+						<a href="index.php" class="img-responsive"><img src="images/mygenic-logo-tm.png" alt="" title=""></a>
 					</div>
 					<!--Right Col-->
 					<div class="right-col pull-right">
@@ -170,7 +170,7 @@
 				<div class="close-btn"><span class="icon far fa-window-close"></span></div>
 				<!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
 				<nav class="menu-box">
-					<div class="nav-logo"><a href="index.html"><img src="images/nav-logo.png" alt="" title=""></a></div>
+					<div class="nav-logo"><a href="index.php"><img src="images/mygenic-logo-tm.png" alt="" title=""></a></div>
 					<ul class="navigation clearfix"><!--Keep This Empty / Menu will come through Javascript--></ul>
 				</nav>
 			</div><!-- End Mobile Menu -->

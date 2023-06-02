@@ -12,7 +12,7 @@
                         <div class="footer-column col-lg-7 col-md-6 col-sm-12">
                             <div class="footer-widget logo-widget">
                                 <div class="logo">
-                                    <a href="index.html"><img src="images/footer-logo.png" alt="" /></a>
+                                    <a href="index.html"><img src="images/mygenic-logo-tm.png" alt="" /></a>
                                 </div>
                                 <div class="text">Meditech is a library of health and medical templates with
                                     predefined web elements which helps you to build your medical templates best
