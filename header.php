@@ -74,49 +74,26 @@
 								</div>
 								<div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
 									<ul class="navigation clearfix">
-										<li class="current dropdown"><a href="#">Home</a></li>
-										<li class="dropdown"><a href="#">About us</a></li>
+										<li class="current"><a href="index.php">Home</a></li>
+										<li><a href="about.php">About us</a></li>
 										<li class="dropdown has-mega-menu"><a href="#">Our Product</a>
-											<div class="mega-menu">
+										</li>
+										<li class="dropdown has-mega-menu"><a href="#">Services</a>
+                                        <div class="mega-menu" style="left:600px; right:-150px;">
 												<div class="mega-menu-bar row clearfix">
-													<div class="column col-md-3 col-xs-12">
-														<h3>About Us</h3>
+													<div class="column col-md-12 col-xs-12">
 														<ul>
-															<li><a href="about.html">About Us</a></li>
-															<li><a href="team.html">Our Team</a></li>
-															<li><a href="faq.html">Faq</a></li>
-															<li><a href="services.html">Services</a></li>
-														</ul>
-													</div>
-													<div class="column col-md-3 col-xs-12">
-														<h3>Doctors</h3>
-														<ul>
-															<li><a href="doctors.html">Doctors</a></li>
-															<li><a href="doctors-detail.html">Doctors Detail</a></li>
-														</ul>
-													</div>
-													<div class="column col-md-3 col-xs-12">
-														<h3>Blog</h3>
-														<ul>
-															<li><a href="blog.html">Our Blog</a></li>
-															<li><a href="blog-classic.html">Blog Classic</a></li>
-															<li><a href="blog-detail.html">Blog Detail</a></li>
-														</ul>
-													</div>
-													<div class="column col-md-3 col-xs-12">
-														<h3>Shops</h3>
-														<ul>
-															<li><a href="shop.html">Shop</a></li>
-															<li><a href="shop-single.html">Shop Details</a></li>
-															<li><a href="shoping-cart.html">Cart Page</a></li>
-															<li><a href="checkout.html">Checkout Page</a></li>
+															<li><a href="about.html">CONTRACT MANUFACTURER</a></li>
+															<li><a href="team.html">THIRD PARTY PHARMA MANUFACTURER</a></li>
+															<li><a href="faq.html">QUALITY MEDICINE SUPPLIER</a></li>
+															<li><a href="services.html">LEADING PHARMACEUTICAL EXPORTER</a></li>
+                                                            <li><a href="services.html">RESEARCH AND DEVELOPMENT</a></li>
 														</ul>
 													</div>
 												</div>
 											</div>
-										</li>
-										<li class="dropdown"><a href="#">Services</a></li>
-										<li class="dropdown"><a href="#">How We Do?</a></li>
+                                        </li>
+										<li><a href="contact.php">How We Do?</a></li>
 										<li><a href="contact.php">Contact</a></li>
 									</ul>
 								</div>
