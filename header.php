@@ -76,7 +76,7 @@
 									<ul class="navigation clearfix">
 										<li class="current"><a href="index.php">Home</a></li>
 										<li><a href="about.php">About us</a></li>
-										<li class="dropdown has-mega-menu"><a href="#">Our Product</a>
+										<li class=""><a href="our-product.php">Our Product</a>
 										</li>
 										<li class="dropdown has-mega-menu"><a href="#">Services</a>
                                         <div class="mega-menu" style="left:600px; right:-150px;">

@@ -37,12 +37,12 @@
                                     <div class="separator"></div>
                                 </div>
                                 <ul class="footer-list">
-                                    <li><a href="#">Home</a></li>
-                                    <li><a href="#">About Us</a></li>
-                                    <li><a href="#">Our Products</a></li>
+                                    <li><a href="index.php">Home</a></li>
+                                    <li><a href="about.php">About Us</a></li>
+                                    <li><a href="our-product.php">Our Products</a></li>
                                     <li><a href="#">How We Do?</a></li>
                                     <li><a href="#">Research & Development</a></li>
-                                    <li><a href="#">Contact Us</a></li>
+                                    <li><a href="contact.php">Contact Us</a></li>
                                 </ul>
                             </div>
                         </div>
