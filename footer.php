@@ -40,8 +40,7 @@
                                     <li><a href="index.php">Home</a></li>
                                     <li><a href="about.php">About Us</a></li>
                                     <li><a href="our-product.php">Our Products</a></li>
-                                    <li><a href="#">How We Do?</a></li>
-                                    <li><a href="#">Research & Development</a></li>
+                                    <li><a href="how-we-do.php">How We Do?</a></li>
                                     <li><a href="contact.php">Contact Us</a></li>
                                 </ul>
                             </div>

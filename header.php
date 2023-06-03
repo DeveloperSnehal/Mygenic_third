@@ -93,7 +93,7 @@
 												</div>
 											</div>
                                         </li>
-										<li><a href="#">How We Do?</a></li>
+										<li><a href="how-we-do.php">How We Do?</a></li>
 										<li><a href="contact.php">Contact us</a></li>
 									</ul>
 								</div>
