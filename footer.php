@@ -92,7 +92,7 @@
     <!-- Footer Bottom -->
     <div class="footer-bottom">
         <div class="auto-container">
-            <div class="copyright">MediTech Helth Care &copy; All Rights Reserved By Expertthemes</div>
+            <div class="copyright">MyGenic Healthcare Pvt Ltd &copy; All Rights Reserved By <a href="https://creativemarque.com/" style="color:white;">CreativeMarque</a></div>
         </div>
     </div>
 </footer>

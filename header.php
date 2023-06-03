@@ -79,7 +79,7 @@
 										<li class=""><a href="our-product.php">Our Product</a>
 										</li>
 										<li class="dropdown has-mega-menu"><a href="#">Services</a>
-                                        <div class="mega-menu" style="left:600px; right:-150px;">
+                                          <div class="mega-menu" style="left:600px; right:-150px;">
 												<div class="mega-menu-bar row clearfix">
 													<div class="column col-md-12 col-xs-12">
 														<ul>
@@ -93,8 +93,8 @@
 												</div>
 											</div>
                                         </li>
-										<li><a href="contact.php">How We Do?</a></li>
-										<li><a href="contact.php">Contact</a></li>
+										<li><a href="#">How We Do?</a></li>
+										<li><a href="contact.php">Contact us</a></li>
 									</ul>
 								</div>
 							</nav>
