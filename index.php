@@ -1,75 +1,41 @@
 <?php include("header.php"); ?>
 
 		<!-- Main Slider -->
-
 		<section class="main-slider">
-
 			<div class="banner-carousel">
-
 				<!-- Swiper -->
-
 				<div class="swiper-wrapper">
-
-
-
 					<div class="swiper-slide slide" style="background-image:url(images/main-slider/1.jpg)">
-
 						<div class="auto-container">
-
 							<div class="content clearfix">
-
 								<div class="title">Welcome our Medical Care Center</div>
-
 								<h2>Take Care of Your Health</h2>
-
 								<div class="text">We're always available for our Patients with emergent problems. You
 									can easily reach us 24/7 via the phone number below:</div>
-
 								<div class="btn-box clearfix">
-
 									<a href="contact.html" class="theme-btn btn-style-two"><span class="txt">Our
 											Services</span></a>
-
 									<a href="contact.html" class="theme-btn phone-btn"><span
 											class="icon flaticon-call"></span>555–123–2323</a>
-
 								</div>
-
 							</div>
-
 						</div>
-
 					</div>
-
-
-
 					<div class="swiper-slide slide" style="background-image:url(images/main-slider/1.jpg)">
-
 						<div class="auto-container">
-
 							<div class="content">
-
 								<div class="title">Welcome our Medical Care Center</div>
-
 								<h2>Take Care of Your Health</h2>
-
 								<div class="text">We're always available for our Patients with emergent problems. You
 									can easily reach us 24/7 via the phone number below:</div>
-
 								<div class="btn-box">
-
 									<a href="contact.html" class="theme-btn btn-style-two"><span class="txt">Our
 											Services</span></a>
-
 									<a href="contact.html" class="theme-btn phone-btn"><span
 											class="icon flaticon-call"></span>555–123–2323</a>
-
 								</div>
-
 							</div>
-
 						</div>
-
 					</div>
 					<div class="swiper-slide slide" style="background-image:url(images/main-slider/1.jpg)">
 						<div class="auto-container">
@@ -79,9 +45,7 @@
 								<div class="text">We're always available for our Patients with emergent problems. You can easily reach us 24/7 via the phone number below:</div>
 								<div class="btn-box">
 									<a href="contact.html" class="theme-btn btn-style-two"><span class="txt">Our Services</span></a>
-
 									<a href="contact.html" class="theme-btn phone-btn"><span class="icon flaticon-call"></span>555–123–2323</a>
-
 								</div>
 							</div>
 						</div>
@@ -97,80 +61,42 @@
 		<!-- End Main Slider -->
 
 		<!-- Department Section -->
-
 		<section class="department-section">
-
 			<div class="auto-container">
-
-
-
 				<!-- Sec Title -->
-
 				<div class="sec-title centered">
-
 					<h2>Health Department</h2>
-
 					<div class="separator"></div>
-
 				</div>
-
-
-
 				<div class="services-carousel owl-carousel owl-theme">
 
-
-
 					<!-- Department Block -->
-
 					<div class="department-block">
-
 						<div class="inner-box">
-
 							<div class="upper-box">
-
 								<div class="icon flaticon-kidneys"></div>
-
 								<h3><a href="#">Urology</a></h3>
-
 							</div>
-
 							<div class="text">Morbi a metus. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu,
 								velit. Nullam sapien sem, ornare ac, nonummy non, lobortis a, enim. </div>
-
 							<div class="read-outer">
-
 								<a href="#" class="read-more">Read More <span
 										class="icon fas fa-angle-double-right"></span></a>
-
 							</div>
-
 						</div>
-
 					</div>
 
-
-
 					<!-- Department Block -->
-
 					<div class="department-block">
-
 						<div class="inner-box">
-
 							<div class="upper-box">
-
 								<div class="icon flaticon-brain"></div>
-
 								<h3><a href="#">Neurology</a></h3>
-
 							</div>
-
 							<div class="text">Morbi a metus. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu,
 								velit. Nullam sapien sem, ornare ac, nonummy non, lobortis a, enim. </div>
-
 							<div class="read-outer">
-
-								<a href="#" class="read-more">Read More <span
-										class="icon fas fa-angle-double-right"></span></a>
+								<a href="#" class="read-more">Read More <span class="icon fas fa-angle-double-right"></span></a>
 
 							</div>
 

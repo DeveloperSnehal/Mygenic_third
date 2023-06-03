@@ -12,7 +12,7 @@
                         <div class="footer-column col-lg-7 col-md-6 col-sm-12">
                             <div class="footer-widget logo-widget">
                                 <div class="logo">
-                                    <a href="index.html"><img src="images/mygenic-logo-tm.png" alt="" /></a>
+                                    <a href="index.php"><img src="images/mygenic-logo-tm.png" alt="" /></a>
                                 </div>
                                 <div class="text">Meditech is a library of health and medical templates with
                                     predefined web elements which helps you to build your medical templates best
@@ -33,16 +33,16 @@
                         <div class="footer-column col-lg-5 col-md-6 col-sm-12">
                             <div class="footer-widget links-widget">
                                 <div class="footer-title  clearfix">
-                                    <h2>Departments</h2>
+                                    <h2>Our Company</h2>
                                     <div class="separator"></div>
                                 </div>
                                 <ul class="footer-list">
-                                    <li><a href="#">Surgery & Radiology</a></li>
-                                    <li><a href="#">Family Medicine</a></li>
-                                    <li><a href="#">Women’s Health</a></li>
-                                    <li><a href="#">Optician</a></li>
-                                    <li><a href="#">Pediatrics</a></li>
-                                    <li><a href="#">Dermatology</a></li>
+                                    <li><a href="#">Home</a></li>
+                                    <li><a href="#">About Us</a></li>
+                                    <li><a href="#">Our Products</a></li>
+                                    <li><a href="#">How We Do?</a></li>
+                                    <li><a href="#">Research & Development</a></li>
+                                    <li><a href="#">Contact Us</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -53,35 +53,19 @@
                     <div class="row clearfix">
                         <!--Footer Column-->
                         <div class="footer-column col-lg-6 col-md-6 col-sm-12">
-                            <div class="footer-widget news-widget">
+                        <div class="footer-widget links-widget">
                                 <div class="footer-title  clearfix">
-                                    <h2>News Update</h2>
+                                    <h2>Our Services</h2>
                                     <div class="separator"></div>
                                 </div>
-                                <!--News Widget Block-->
-                                <div class="news-widget-block">
-                                    <div class="widget-inner">
-                                        <div class="image">
-                                            <img src="images/resource/news-image-1.jpg" alt="" />
-                                        </div>
-                                        <h3><a href="blog-detail.html">Integrative Medicine And Cancer
-                                                Treatment</a></h3>
-                                        <div class="post-date">July 11, 2023</div>
-                                    </div>
-                                </div>
-                                <!--News Widget Block-->
-                                <div class="news-widget-block">
-                                    <div class="widget-inner">
-                                        <div class="image">
-                                            <img src="images/resource/news-image-2.jpg" alt="" />
-                                        </div>
-                                        <h3><a href="blog-detail.html">Achieving Better Health Care One Patient
-                                                Time</a></h3>
-                                        <div class="post-date">July 11, 2023</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                                <ul class="footer-list">
+                                    <li><a href="#">Contract Manufacturer</a></li>
+                                    <li><a href="#">Third Party Pharma Manufacturer</a></li>
+                                    <li><a href="#">Quality Medicine Supplier</a></li>
+                                    <li><a href="#">Leading Pharmaceutical Exporter</a></li>
+                                    <li><a href="#">Research and Development</a></li>
+                                </ul>
+                            </div>                        </div>
                         <!--Footer Column-->
                         <div class="footer-column col-lg-6 col-md-6 col-sm-12">
                             <div class="footer-widget contact-widget">
@@ -90,13 +74,12 @@
                                     <div class="separator"></div>
                                 </div>
                                 <ul class="contact-list">
-                                    <li><span class="icon flaticon-placeholder"></span>2130 Fulton Street San
-                                        Diego <br> CA 94117-1080 USA</li>
-                                    <li><span class="icon flaticon-call"></span>Mon to Fri : 08:30 - 18:00 <br>
+                                    <li><span class="icon flaticon-placeholder"></span>Office No- 2 Plot No- 98, Sector 35 Dolphin Platinum Kamothe, Navi Mumbai, Maharashtra, India</li>
+                                    <li><span class="icon flaticon-call"></span><br>
                                         <a href="tel:+898-68679-575-09">+898 68679 575 09</a>
                                     </li>
-                                    <li><span class="icon flaticon-message"></span>Do you have a Question? <a
-                                            href="mailto:info@gmail.com">info@gmail.com</a></li>
+                                    <li><span class="icon flaticon-message"></span>Do you have a Question?
+                                    <a href="mailto:info@gmail.com" style="font-size: 15px;">info@mygenichealthcare.com</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -145,39 +128,6 @@
                 <li><a href="#">Freedom</a></li>
             </ul>
         </div>
-    </div>
-</div>
-
-<!-- Color Palate / Color Switcher -->
-<div class="color-palate">
-    <div class="color-trigger">
-        <i class="fas fa-cog"></i>
-    </div>
-    <div class="color-palate-head">
-        <h6>Choose Your Color</h6>
-    </div>
-    <div class="various-color clearfix">
-        <div class="colors-list">
-            <span class="palate default-color active" data-theme-file="css/color-themes/default-theme.css"></span>
-            <span class="palate green-color" data-theme-file="css/color-themes/green-theme.css"></span>
-            <span class="palate olive-color" data-theme-file="css/color-themes/olive-theme.css"></span>
-            <span class="palate orange-color" data-theme-file="css/color-themes/orange-theme.css"></span>
-            <span class="palate purple-color" data-theme-file="css/color-themes/purple-theme.css"></span>
-            <span class="palate teal-color" data-theme-file="css/color-themes/teal-theme.css"></span>
-            <span class="palate brown-color" data-theme-file="css/color-themes/brown-theme.css"></span>
-            <span class="palate redd-color" data-theme-file="css/color-themes/redd-color.css"></span>
-        </div>
-    </div>
-
-    <ul class="rtl-version option-box">
-        <li class="rtl">RTL Version</li>
-        <li>LTR Version</li>
-    </ul>
-
-    <a href="#" class="purchase-btn">Purchase now $17</a>
-    <div class="palate-foo">
-        <span>You will find much more options for colors and styling in admin panel. This color picker is used only
-            for demonstation purposes.</span>
     </div>
 </div>
 

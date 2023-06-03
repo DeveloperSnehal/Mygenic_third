@@ -10,7 +10,7 @@
 	<link href="css/style.css" rel="stylesheet">
 	<link href="css/responsive.css" rel="stylesheet">
 	<!--Color Switcher Mockup-->
-	<link href="css/color-switcher-design.css" rel="stylesheet">
+	<!------<link href="css/color-switcher-design.css" rel="stylesheet">---->
 	<!--Color Themes-->
 	<link id="theme-color-file" href="css/color-themes/default-theme.css" rel="stylesheet">
 	<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
@@ -33,10 +33,10 @@
 					<div class="top-left clearfix">
 						<ul class="list">
 							<li>
-								<span class="icon fas fa-envelope"></span> 2130 Fulton Street San Diego CA 94117-1080 USA
+								<span class="icon fas fa-envelope"></span> info@mygenichealthcare.com
 							</li>
 							<li>
-								<span class="icon fas fa-phone"></span> <a href="tel:+555–123–2323"> 555–123–2323</a>
+								<span class="icon fas fa-phone"></span> <a href="tel:+91 9867592446"> +91 9867592446</a>
 							</li>
 						</ul>
 					</div>
@@ -76,7 +76,7 @@
 									<ul class="navigation clearfix">
 										<li class="current dropdown"><a href="#">Home</a></li>
 										<li class="dropdown"><a href="#">About us</a></li>
-										<li class="dropdown has-mega-menu"><a href="#">Pages</a>
+										<li class="dropdown has-mega-menu"><a href="#">Our Product</a>
 											<div class="mega-menu">
 												<div class="mega-menu-bar row clearfix">
 													<div class="column col-md-3 col-xs-12">
@@ -115,11 +115,9 @@
 												</div>
 											</div>
 										</li>
-										<li class="dropdown"><a href="#">Doctors</a></li>
-										<li class="dropdown"><a href="#">Department</a></li>
-										<li class="dropdown"><a href="#">Blog</a></li>
-										<li class="dropdown"><a href="#">Shop</a></li>
-										<li><a href="contact.html">Contact</a></li>
+										<li class="dropdown"><a href="#">Services</a></li>
+										<li class="dropdown"><a href="#">How We Do?</a></li>
+										<li><a href="contact.php">Contact</a></li>
 									</ul>
 								</div>
 							</nav>
@@ -127,11 +125,9 @@
 
 							<!-- Main Menu End-->
 							<div class="outer-box clearfix">
-								<!-- Search Btn -->
-								<div class="search-box-btn"><span class="icon flaticon-search"></span></div>
 								<!-- Button Box -->
 								<div class="btn-box">
-									<a href="contact.html" class="theme-btn btn-style-one"><span class="txt">Appointment</span></a>
+									<a href="contact.php" class="theme-btn btn-style-one"><span class="txt">Appointment</span></a>
 								</div>
 							</div>
 						</div>
