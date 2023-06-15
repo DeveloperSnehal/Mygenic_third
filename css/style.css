@@ -2109,7 +2109,7 @@ img{
 	height:30px;
 	margin-left:-15px;
 	border:10px solid #ffffff;
-	background-color:#18a0b1;
+	background-color:#ed6f1e!important;
 }
 
 .sec-title.light .separator:after{
@@ -2445,8 +2445,9 @@ img{
 	position:relative;
 	overflow:hidden;
 	border-radius:10px;
-	padding:45px 45px 40px;
+	padding:40px 15px 0px;
 	border:1px solid #dddddd;
+	height: 350px;
 }
 
 .department-block .inner-box:before{
@@ -2587,7 +2588,7 @@ img{
 }
 
 .fluid-section-one .image-column{
-    position: absolute;
+   position: absolute;
     left: 0px;
 	top:0px;
     width: 50%;
@@ -2613,7 +2614,7 @@ img{
 
 .fluid-section-one .content-column{
 	position: relative;
-    width: 50%;
+    /*width: 50%;*/
 	float:right;
 }
 
@@ -2991,7 +2992,7 @@ img{
 
 .team-section{
 	position:relative;
-	padding:110px 0px 80px;
+	padding:20px 0px 60px;
 }
 
 .team-block{
@@ -3311,7 +3312,7 @@ img{
 
 .testimonial-section{
 	position:relative;
-	padding:100px 0px 100px;
+	padding:100px 0px 70px;
 }
 
 .testimonial-section .testimonial-outer{
@@ -3717,7 +3718,7 @@ img{
 
 .newsletter-section{
 	position:relative;
-	padding:75px 0px;
+	padding:10px 0px;
 }
 
 .newsletter-section .title-column{
@@ -6983,6 +6984,13 @@ img{
 	-webkit-filter: grayscale(0%);
 	filter: grayscale(0%);
 }
+
+#clientel .section .section_wrapper .items_group marquee img{
+	padding: 0 0px 10px;
+	width: 10%;
+	aspect-ratio: 3/2;
+	object-fit: contain;
+  }
 
 /***
 

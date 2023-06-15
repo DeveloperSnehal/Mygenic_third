@@ -65,261 +65,64 @@
 			<div class="auto-container">
 				<!-- Sec Title -->
 				<div class="sec-title centered">
-					<h2>Health Department</h2>
+					<h2>WHAT WE PROVIDE</h2>
 					<div class="separator"></div>
 				</div>
-				<div class="services-carousel owl-carousel owl-theme">
+				<div class="row">
 
 					<!-- Department Block -->
-					<div class="department-block">
-						<div class="inner-box">
-							<div class="upper-box">
-								<div class="icon flaticon-kidneys"></div>
-								<h3><a href="#">Urology</a></h3>
-							</div>
-							<div class="text">Morbi a metus. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu,
-								velit. Nullam sapien sem, ornare ac, nonummy non, lobortis a, enim. </div>
-							<div class="read-outer">
-								<a href="#" class="read-more">Read More <span
-										class="icon fas fa-angle-double-right"></span></a>
+					<div class="col-lg-4 col-md-6 col-sm-12">
+						<div class="department-block">
+							<div class="inner-box">
+								<div class="upper-box">
+									<div class="icon flaticon-kidneys"></div>
+									<h3><a href="#">MANUFACTURING</a></h3>
+								</div>
+								<div class="text">MyGenic Healthcare Private Limited may manufacture a range of pharmaceutical products including tablets, injections, and anti-cancer capsules. </div>
+								<div class="read-outer">
+									<a href="#" class="read-more">Read More <span
+											class="icon fas fa-angle-double-right"></span></a>
+								</div>
 							</div>
 						</div>
 					</div>
 
 					<!-- Department Block -->
-					<div class="department-block">
-						<div class="inner-box">
-							<div class="upper-box">
-								<div class="icon flaticon-brain"></div>
-								<h3><a href="#">Neurology</a></h3>
+					<div class="col-lg-4 col-md-6 col-sm-12">
+						<div class="department-block">
+							<div class="inner-box">
+								<div class="upper-box">
+									<div class="icon flaticon-brain"></div>
+									<h3><a href="#">EXPORTING</a></h3>
+								</div>
+								<div class="text">By developing effective processes and partnerships, the company can efficiently export their pharmaceutical products to a range of global markets. </div>
+								<div class="read-outer">
+									<a href="#" class="read-more">Read More <span class="icon fas fa-angle-double-right"></span></a>
+								</div>
 							</div>
-							<div class="text">Morbi a metus. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu,
-								velit. Nullam sapien sem, ornare ac, nonummy non, lobortis a, enim. </div>
-							<div class="read-outer">
-								<a href="#" class="read-more">Read More <span class="icon fas fa-angle-double-right"></span></a>
-
-							</div>
-
 						</div>
-
-					</div>
+                   </div>
 
 
 
 					<!-- Department Block -->
-
-					<div class="department-block">
-
-						<div class="inner-box">
-
-							<div class="upper-box">
-
-								<div class="icon flaticon-kidneys"></div>
-
-								<h3><a href="#">Gastrology</a></h3>
-
+					<div class="col-lg-4 col-md-6 col-sm-12">
+						<div class="department-block">
+							<div class="inner-box">
+								<div class="upper-box">
+									<div class="icon flaticon-kidneys"></div>
+									<h3><a href="#">QUALITY CONTROL</a></h3>
+								</div>
+								<div class="text">MyGenic Healthcare Private Limited likely has a quality control system in place to ensure that their products meet industry standards and regulations. </div>
+								<div class="read-outer">
+									<a href="#" class="read-more">Read More <span class="icon fas fa-angle-double-right"></span></a>
+								</div>
 							</div>
-
-							<div class="text">Morbi a metus. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu,
-								velit. Nullam sapien sem, ornare ac, nonummy non, lobortis a, enim. </div>
-
-							<div class="read-outer">
-
-								<a href="#" class="read-more">Read More <span
-										class="icon fas fa-angle-double-right"></span></a>
-
-							</div>
-
 						</div>
-
 					</div>
 
-
-
-					<!-- Department Block -->
-
-					<div class="department-block">
-
-						<div class="inner-box">
-
-							<div class="upper-box">
-
-								<div class="icon flaticon-kidneys"></div>
-
-								<h3><a href="#">Urology</a></h3>
-
-							</div>
-
-							<div class="text">Morbi a metus. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu,
-								velit. Nullam sapien sem, ornare ac, nonummy non, lobortis a, enim. </div>
-
-							<div class="read-outer">
-
-								<a href="#" class="read-more">Read More <span
-										class="icon fas fa-angle-double-right"></span></a>
-
-							</div>
-
-						</div>
-
 					</div>
-
-
-
-					<!-- Department Block -->
-
-					<div class="department-block">
-
-						<div class="inner-box">
-
-							<div class="upper-box">
-
-								<div class="icon flaticon-brain"></div>
-
-								<h3><a href="#">Neurology</a></h3>
-
-							</div>
-
-							<div class="text">Morbi a metus. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu,
-								velit. Nullam sapien sem, ornare ac, nonummy non, lobortis a, enim. </div>
-
-							<div class="read-outer">
-
-								<a href="#" class="read-more">Read More <span
-										class="icon fas fa-angle-double-right"></span></a>
-
-							</div>
-
-						</div>
-
-					</div>
-
-
-
-					<!-- Department Block -->
-
-					<div class="department-block">
-
-						<div class="inner-box">
-
-							<div class="upper-box">
-
-								<div class="icon flaticon-kidneys"></div>
-
-								<h3><a href="#">Gastrology</a></h3>
-
-							</div>
-
-							<div class="text">Morbi a metus. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu,
-								velit. Nullam sapien sem, ornare ac, nonummy non, lobortis a, enim. </div>
-
-							<div class="read-outer">
-
-								<a href="#" class="read-more">Read More <span
-										class="icon fas fa-angle-double-right"></span></a>
-
-							</div>
-
-						</div>
-
-					</div>
-
-
-
-					<!-- Department Block -->
-
-					<div class="department-block">
-
-						<div class="inner-box">
-
-							<div class="upper-box">
-
-								<div class="icon flaticon-kidneys"></div>
-
-								<h3><a href="#">Urology</a></h3>
-
-							</div>
-
-							<div class="text">Morbi a metus. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu,
-								velit. Nullam sapien sem, ornare ac, nonummy non, lobortis a, enim. </div>
-
-							<div class="read-outer">
-
-								<a href="#" class="read-more">Read More <span
-										class="icon fas fa-angle-double-right"></span></a>
-
-							</div>
-
-						</div>
-
-					</div>
-
-
-
-					<!-- Department Block -->
-
-					<div class="department-block">
-
-						<div class="inner-box">
-
-							<div class="upper-box">
-
-								<div class="icon flaticon-brain"></div>
-
-								<h3><a href="#">Neurology</a></h3>
-
-							</div>
-
-							<div class="text">Morbi a metus. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu,
-								velit. Nullam sapien sem, ornare ac, nonummy non, lobortis a, enim. </div>
-
-							<div class="read-outer">
-
-								<a href="#" class="read-more">Read More <span
-										class="icon fas fa-angle-double-right"></span></a>
-
-							</div>
-
-						</div>
-
-					</div>
-
-
-
-					<!-- Department Block -->
-
-					<div class="department-block">
-
-						<div class="inner-box">
-
-							<div class="upper-box">
-
-								<div class="icon flaticon-kidneys"></div>
-
-								<h3><a href="#">Gastrology</a></h3>
-
-							</div>
-
-							<div class="text">Morbi a metus. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu,
-								velit. Nullam sapien sem, ornare ac, nonummy non, lobortis a, enim. </div>
-
-							<div class="read-outer">
-
-								<a href="#" class="read-more">Read More <span
-										class="icon fas fa-angle-double-right"></span></a>
-
-							</div>
-
-						</div>
-
-					</div>
-
-
-
 				</div>
-
-
-
 			</div>
 
 		</section>
@@ -331,87 +134,37 @@
 		<!-- Fluid Section One -->
 
 		<section class="fluid-section-one">
-
 			<div class="outer-section clearfix">
-
-
-
 				<!--Image Column-->
-
-				<div class="image-column" style="background-image: url(images/resource/image-1.jpg)">
-
+				<div class="image-column" style="background-image: url(images/25-Years-of-excellence0-unit_02.png)">
 					<div class="image">
-
-						<img src="images/resource/image-1.jpg" alt="">
-
+						<img src="images/25-Years-of-excellence0-unit_02.png" alt="">
 					</div>
-
 				</div>
-
 				<!--End Image Column-->
-
-
 
 				<!--Content Column-->
 
 				<div class="content-column">
-
 					<div class="content-box">
-
 						<div class="sec-title">
-
-							<h2>Pioneering in Health.</h2>
-
+							<h2>INTRODUCTION</h2>
 							<div class="separator style-two"></div>
-
 						</div>
 
 						<div class="text">
 
-							<p>Our main long-term goal is always achieving complex results for your dental health. But
-								in the process, we also keep the focus on giving you the best customer service. We're
-								always making our dental office as safe place as possible!</p>
+							<p>Established at Navi Mumbai (Maharashtra), We,“MyGenic Healthcare Private Limited” are one of the leading Exporter of a premium range of Pharmaceutical Tablets, Pharmaceutical Injection & Anti Cancer Capsules and many more.</p>
 
-							<p>Nulla auctor neque non tortor tincidunt fringilla. Nam in condimentum orci. Integer ac
-								pellentesque sem. Nulla fringilla dui id metus viverra interdum.</p>
+							<p>MyGenic Healthcare Private Limited is a reputable company that specializes in the production and export of high-quality pharmaceutical products. We are based in Navi Mumbai, Maharashtra, and have gained a strong foothold in the industry through our commitment to providing superior products and services to our clients.</p>
 
+							<p>We offer a wide range of pharmaceutical products, including tablets, injections, capsules, and more. Our products are manufactured in state-of-the-art facilities using the latest technology and in strict adherence to industry regulations and quality standards. This ensures that our products are safe, effective, and of the highest quality.</p>
+
+							<b>We have experties in pharmaceutical products from 25 years!</b>
 						</div>
-
-						<div class="row clearfix">
-
-							<div class="column col-lg-6 col-md-6 col-sm-12">
-
-								<ul class="list-style-one">
-
-									<li><span class="icon flaticon-medical-stethoscope-variant"></span>Medical Treatment
-									</li>
-
-									<li><span class="icon flaticon-doctor"></span>Qualified Doctors</li>
-
-								</ul>
-
-							</div>
-
-							<div class="column col-lg-6 col-md-6 col-sm-12">
-
-								<ul class="list-style-one">
-
-									<li><span class="icon flaticon-ambulance-side-view"></span>Emergency Help</li>
-
-									<li><span class="icon flaticon-medical-kit"></span>Medical Professionals</li>
-
-								</ul>
-
-							</div>
-
-						</div>
-
 					</div>
-
 				</div>
-
 			</div>
-
 		</section>
 
 
@@ -422,23 +175,17 @@
 
 			<div class="auto-container">
 
-
-
 				<!-- Sec Title -->
 
 				<div class="sec-title centered">
 
-					<h2>Best Health Services</h2>
+					<h2>SERVICES WE PROVIDE</h2>
 
 					<div class="separator"></div>
 
 				</div>
 
-
-
 				<div class="row clearfix">
-
-
 
 					<!-- Left Column -->
 
@@ -460,10 +207,9 @@
 
 									</div>
 
-									<h3><a href="doctors-detail.html">Outdoor Checkup</a></h3>
+									<h3><a href="doctors-detail.html">Bulk Pharma Export</a></h3>
 
-									<div class="text">We provide best service for our cline. <br> Now place take it.
-									</div>
+									<div class="text">Export of pharmaceutical products in <br> large quantities.</div>
 
 								</div>
 
@@ -483,9 +229,9 @@
 
 									</div>
 
-									<h3><a href="doctors-detail.html">Operation Theater</a></h3>
+									<h3><a href="doctors-detail.html">Contract Manufacturer</a></h3>
 
-									<div class="text">We provide best service for our cline. Now place take it.</div>
+									<div class="text">Outsourced manufacturing services provider.</div>
 
 								</div>
 
@@ -505,9 +251,9 @@
 
 									</div>
 
-									<h3><a href="doctors-detail.html">Emergency Care</a></h3>
+									<h3><a href="doctors-detail.html">Hospital Supplies</a></h3>
 
-									<div class="text">We provide best service for our cline. <br> Now place take it.
+									<div class="text">Medical equipment and materials provision.
 									</div>
 
 								</div>
@@ -528,8 +274,6 @@
 
 						<div class="inner-column">
 
-
-
 							<div class="circles">
 
 								<div class="circle-one"></div>
@@ -539,22 +283,15 @@
 								<div class="circle-three"></div>
 
 							</div>
-
-
-
 						</div>
 
 					</div>
-
-
 
 					<!-- Right Column -->
 
 					<div class="right-column pull-right col-lg-4 col-md-12 col-sm-12">
 
 						<div class="inner-column">
-
-
 
 							<!-- Service Block -->
 
@@ -568,16 +305,13 @@
 
 									</div>
 
-									<h3><a href="doctors-detail.html">Blood Test</a></h3>
+									<h3><a href="doctors-detail.html">Government Supplies</a></h3>
 
-									<div class="text">We provide best service for our cline. <br> Now place take it.
-									</div>
+									<div class="text">Public sector procurement and distribution. </div>
 
 								</div>
 
 							</div>
-
-
 
 							<!-- Service Block -->
 
@@ -592,15 +326,13 @@
 
 									</div>
 
-									<h3><a href="doctors-detail.html">Pharmacy Support</a></h3>
+									<h3><a href="doctors-detail.html">Cold Chain Shipping</a></h3>
 
-									<div class="text">We provide best service for our cline. Now place take it.</div>
+									<div class="text">Temperature-controlled transport of goods.</div>
 
 								</div>
 
 							</div>
-
-
 
 							<!-- Service Block -->
 
@@ -617,47 +349,88 @@
 
 									<h3><a href="doctors-detail.html">24/7 Service</a></h3>
 
-									<div class="text">We provide best service for our cline. <br> Now place take it.
+									<div class="text">We provide best service for our cline.
 									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- Health Section -->
+
+		<section class="health-section" style="position: relative; padding-top: 5px; padding-bottom: 20px;">
+
+				<div class="auto-container">
+
+					<div class="inner-container">
+
+
+
+						<div class="row clearfix">
+
+
+
+							<!-- Content Column -->
+
+							<div class="content-column col-lg-7 col-md-12 col-sm-12">
+
+								<div class="inner-column">
+
+									<div class="border-line"></div>
+
+									<!-- Sec Title -->
+
+									<div class="sec-title">
+
+										<h2>WHO WE ARE?</h2>
+
+										<div class="separator"></div>
+
+									</div>
+
+									<div class="text">We are a pharmaceutical company that is committed to improving the health and wellbeing of people globally. Our team of experienced professionals includes scientists, researchers, and pharmaceutical experts who are dedicated to developing innovative solutions to address some of the most pressing healthcare issues of our time. </div>
+
+									<div class="text">We specialize in the development, manufacturing, and distribution of high-quality pharmaceutical products that meet the needs of patients, healthcare providers, and partners worldwide. Our products are made using the latest technologies and adhere to strict quality control measures to ensure safety and efficacy.</div>
 
 								</div>
 
 							</div>
 
+							<!-- Image Column -->
 
+							<div class="image-column col-lg-5 col-md-12 col-sm-12">
 
+								<div class="inner-column wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
+
+									<div class="image">
+
+										<img src="images\who we are\pharmaceutics_-automation-manufacturing.jpeg" alt="" />
+
+									</div>
+								</div>
+							</div>
 						</div>
-
 					</div>
-
-
-
 				</div>
-
-
-
-			</div>
-
 		</section>
+
+		<!-- End Health Section -->
 
 
 
 		<!-- Counter Section -->
-
 		<section class="counter-section" style="background-image: url(images/background/pattern-3.png)">
 
 			<div class="auto-container">
-
-
 
 				<!-- Fact Counter -->
 
 				<div class="fact-counter">
 
 					<div class="row clearfix">
-
-
-
 						<!--Column-->
 
 						<div class="column counter-column col-lg-3 col-md-6 col-sm-12">
@@ -680,8 +453,6 @@
 
 						</div>
 
-
-
 						<!--Column-->
 
 						<div class="column counter-column col-lg-3 col-md-6 col-sm-12">
@@ -703,7 +474,6 @@
 							</div>
 
 						</div>
-
 
 
 						<!--Column-->
@@ -767,315 +537,6 @@
 		<!-- End Counter Section -->
 
 
-
-		<!-- Team Section -->
-
-		<section class="team-section">
-
-			<div class="auto-container">
-
-
-
-				<!-- Sec Title -->
-
-				<div class="sec-title centered">
-
-					<h2>The Medical Specialists</h2>
-
-					<div class="separator"></div>
-
-				</div>
-
-
-
-				<div class="row clearfix">
-
-
-
-					<!-- Team Block -->
-
-					<div class="team-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
-
-						<div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-
-							<div class="image">
-
-								<img src="images/resource/team-1.jpg" alt="" />
-
-								<div class="overlay-box">
-
-									<ul class="social-icons">
-
-										<li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
-
-										<li><a href="#"><span class="fab fa-google"></span></a></li>
-
-										<li><a href="#"><span class="fab fa-twitter"></span></a></li>
-
-										<li><a href="#"><span class="fab fa-skype"></span></a></li>
-
-										<li><a href="#"><span class="fab fa-linkedin-in"></span></a></li>
-
-									</ul>
-
-									<a href="#" class="appointment">Make Appointment</a>
-
-								</div>
-
-							</div>
-
-							<div class="lower-content">
-
-								<h3><a href="#">Dr. Andria Jonea</a></h3>
-
-								<div class="designation">Cancer Specialist</div>
-
-							</div>
-
-						</div>
-
-					</div>
-
-
-
-					<!-- Team Block -->
-
-					<div class="team-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
-
-						<div class="inner-box wow fadeInUp" data-wow-delay="250ms" data-wow-duration="1500ms">
-
-							<div class="image">
-
-								<img src="images/resource/team-2.jpg" alt="" />
-
-								<div class="overlay-box">
-
-									<ul class="social-icons">
-
-										<li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
-
-										<li><a href="#"><span class="fab fa-google"></span></a></li>
-
-										<li><a href="#"><span class="fab fa-twitter"></span></a></li>
-
-										<li><a href="#"><span class="fab fa-skype"></span></a></li>
-
-										<li><a href="#"><span class="fab fa-linkedin-in"></span></a></li>
-
-									</ul>
-
-									<a href="#" class="appointment">Make Appointment</a>
-
-								</div>
-
-							</div>
-
-							<div class="lower-content">
-
-								<h3><a href="#">Dr. Robet Samith</a></h3>
-
-								<div class="designation">Heart Surgen</div>
-
-							</div>
-
-						</div>
-
-					</div>
-
-
-
-					<!-- Team Block -->
-
-					<div class="team-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
-
-						<div class="inner-box wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms">
-
-							<div class="image">
-
-								<img src="images/resource/team-3.jpg" alt="" />
-
-								<div class="overlay-box">
-
-									<ul class="social-icons">
-
-										<li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
-
-										<li><a href="#"><span class="fab fa-google"></span></a></li>
-
-										<li><a href="#"><span class="fab fa-twitter"></span></a></li>
-
-										<li><a href="#"><span class="fab fa-skype"></span></a></li>
-
-										<li><a href="#"><span class="fab fa-linkedin-in"></span></a></li>
-
-									</ul>
-
-									<a href="#" class="appointment">Make Appointment</a>
-
-								</div>
-
-							</div>
-
-							<div class="lower-content">
-
-								<h3><a href="#">Dr. Sharon Laura</a></h3>
-
-								<div class="designation">Family Physician</div>
-
-							</div>
-
-						</div>
-
-					</div>
-
-
-
-					<!-- Team Block -->
-
-					<div class="team-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
-
-						<div class="inner-box wow fadeInUp" data-wow-delay="750ms" data-wow-duration="1500ms">
-
-							<div class="image">
-
-								<img src="images/resource/team-4.jpg" alt="" />
-
-								<div class="overlay-box">
-
-									<ul class="social-icons">
-
-										<li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
-
-										<li><a href="#"><span class="fab fa-google"></span></a></li>
-
-										<li><a href="#"><span class="fab fa-twitter"></span></a></li>
-
-										<li><a href="#"><span class="fab fa-skype"></span></a></li>
-
-										<li><a href="#"><span class="fab fa-linkedin-in"></span></a></li>
-
-									</ul>
-
-									<a href="#" class="appointment">Make Appointment</a>
-
-								</div>
-
-							</div>
-
-							<div class="lower-content">
-
-								<h3><a href="#">Dr. Alex Furgosen</a></h3>
-
-								<div class="designation">Ortho Specialist</div>
-
-							</div>
-
-						</div>
-
-					</div>
-
-
-
-				</div>
-
-
-
-			</div>
-
-		</section>
-
-		<!-- End Team Section -->
-
-
-
-		<!-- FullWidth Section -->
-
-		<section class="fullwidth-section">
-
-			<div class="outer-container">
-
-				<div class="clearfix">
-
-
-
-					<!-- Left Column -->
-
-					<div class="left-column" style="background-image: url(images/background/1.jpg)">
-
-						<div class="inner-column clearfix">
-
-							<div class="content">
-
-								<div class="icon-box">
-
-									<span class="icon flaticon-contract-1"></span>
-
-								</div>
-
-								<div class="title">Need a Doctor for Check-up?</div>
-
-								<h2>JUST MAKE AN APPOINTMENT</h2>
-
-								<a href="contact.html" class="theme-btn btn-style-two"><span class="txt">Get an
-										Appointment</span></a>
-
-							</div>
-
-						</div>
-
-					</div>
-
-
-
-					<!-- Right Column -->
-
-					<div class="right-column">
-
-						<div class="inner-column">
-
-
-
-							<!-- Upper Box -->
-
-							<div class="upper-box">
-
-								<div class="icon flaticon-alarm-clock"></div>
-
-								<h3>Opening Hours</h3>
-
-							</div>
-
-							<ul class="time-list">
-
-								<li class="clearfix"><span class="left-span pull-left">Monday - Friday</span><span
-										class="right-span pull-right">08:00am - 10:00pm</span></li>
-
-								<li class="clearfix"><span class="left-span pull-left">Saturday - Sunday</span><span
-										class="right-span pull-right">09:00am - 06:00pm</span></li>
-
-								<li class="clearfix"><span class="left-span pull-left">Emergency Services</span><span
-										class="right-span pull-right">24 hours Open</span></li>
-
-							</ul>
-
-
-
-						</div>
-
-					</div>
-
-
-
-				</div>
-
-			</div>
-
-		</section>
-
-		<!-- End FullWidth Section -->
-
-
-
 		<!-- Testimonial Section -->
 
 		<section class="testimonial-section">
@@ -1085,23 +546,17 @@
 				<!-- Sec Title -->
 
 				<div class="sec-title centered">
-
-					<h2>What Patients Saying</h2>
+					<h2>OUR HAPPY CLIENTS</h2>
 
 					<div class="separator"></div>
-
 				</div>
 
 				<div class="testimonial-outer" style="background-image: url(images/background/pattern-4.png)">
-
-
 
 					<!--Client Testimonial Carousel-->
 
 					<div class="client-testimonial-carousel owl-carousel owl-theme">
 
-
-
 						<!--Testimonial Block -->
 
 						<div class="testimonial-block">
@@ -1110,9 +565,7 @@
 
 								<div class="quote-icon flaticon-quote"></div>
 
-								<div class="text">Medical Centre is a great place to get all of your medical needs. I
-									came in for a check up and did not wait more than 5 minutes before I was seen. I can
-									only imagine the type of service you get for more serious issues. Thanks!</div>
+								<div class="text">“The team at MyGenic Healthcare responded quickly to an urgent project request. Our project timelines were jeopardized by an unforeseen issue with another vendor and MyGenic came to the rescue.”</div>
 
 							</div>
 
@@ -1128,15 +581,11 @@
 
 								<div class="quote-icon flaticon-quote"></div>
 
-								<div class="text">Medical Centre is a great place to get all of your medical needs. I
-									came in for a check up and did not wait more than 5 minutes before I was seen. I can
-									only imagine the type of service you get for more serious issues. Thanks!</div>
+								<div class="text">“In my first project with MyGenic Healthcare I was so impressed with their responsiveness and scientific approach to issues that I have them at the top of my list for quoting on any work in their wheelhouse.”</div>
 
 							</div>
 
 						</div>
-
-
 
 						<!--Testimonial Block -->
 
@@ -1146,70 +595,11 @@
 
 								<div class="quote-icon flaticon-quote"></div>
 
-								<div class="text">Medical Centre is a great place to get all of your medical needs. I
-									came in for a check up and did not wait more than 5 minutes before I was seen. I can
-									only imagine the type of service you get for more serious issues. Thanks!</div>
+								<div class="text">“MyGenic Healthcare came to our rescue and allowed us to get our Phase I trial back on track after a well-known CDMO failed to release our CTM. We are now recruiting patients, thanks to MyGenic Healthcare!.”</div>
 
 							</div>
 
 						</div>
-
-
-
-						<!--Testimonial Block -->
-
-						<div class="testimonial-block">
-
-							<div class="inner-box">
-
-								<div class="quote-icon flaticon-quote"></div>
-
-								<div class="text">Medical Centre is a great place to get all of your medical needs. I
-									came in for a check up and did not wait more than 5 minutes before I was seen. I can
-									only imagine the type of service you get for more serious issues. Thanks!</div>
-
-							</div>
-
-						</div>
-
-
-
-						<!--Testimonial Block -->
-
-						<div class="testimonial-block">
-
-							<div class="inner-box">
-
-								<div class="quote-icon flaticon-quote"></div>
-
-								<div class="text">Medical Centre is a great place to get all of your medical needs. I
-									came in for a check up and did not wait more than 5 minutes before I was seen. I can
-									only imagine the type of service you get for more serious issues. Thanks!</div>
-
-							</div>
-
-						</div>
-
-
-
-						<!--Testimonial Block -->
-
-						<div class="testimonial-block">
-
-							<div class="inner-box">
-
-								<div class="quote-icon flaticon-quote"></div>
-
-								<div class="text">Medical Centre is a great place to get all of your medical needs. I
-									came in for a check up and did not wait more than 5 minutes before I was seen. I can
-									only imagine the type of service you get for more serious issues. Thanks!</div>
-
-							</div>
-
-						</div>
-
-
-
 					</div>
 
 
@@ -1222,13 +612,13 @@
 
 							<div class="thumb-item">
 
-								<figure class="thumb-box"><img src="images/resource/author-1.jpg" alt=""></figure>
+								<figure class="thumb-box"><img src="images/testimonials/testimonial-1.png" alt=""></figure>
 
 								<div class="author-info">
 
-									<div class="author-name">Max Winchester</div>
+									<div class="author-name">Jatin Chopra</div>
 
-									<div class="designation">Kidny Patient</div>
+									<div class="designation">Production Executive</div>
 
 								</div>
 
@@ -1236,13 +626,13 @@
 
 							<div class="thumb-item">
 
-								<figure class="thumb-box"><img src="images/resource/author-2.jpg" alt=""></figure>
+								<figure class="thumb-box"><img src="images/testimonials/testimonial-2.png" alt=""></figure>
 
 								<div class="author-info">
 
-									<div class="author-name">Max Winchester</div>
+									<div class="author-name">Shweta Chavhan</div>
 
-									<div class="designation">Kidny Patient</div>
+									<div class="designation">Analytical Chemist</div>
 
 								</div>
 
@@ -1250,231 +640,265 @@
 
 							<div class="thumb-item">
 
-								<figure class="thumb-box"><img src="images/resource/author-3.jpg" alt=""></figure>
+								<figure class="thumb-box"><img src="images/testimonials/testimonial-3.png" alt=""></figure>
 
 								<div class="author-info">
 
-									<div class="author-name">Max Winchester</div>
+									<div class="author-name">Nikhil Shinde</div>
 
-									<div class="designation">Kidny Patient</div>
+									<div class="designation">R and D chemist</div>
 
 								</div>
 
 							</div>
-
-							<div class="thumb-item">
-
-								<figure class="thumb-box"><img src="images/resource/author-1.jpg" alt=""></figure>
-
-								<div class="author-info">
-
-									<div class="author-name">Max Winchester</div>
-
-									<div class="designation">Kidny Patient</div>
-
-								</div>
-
-							</div>
-
-							<div class="thumb-item">
-
-								<figure class="thumb-box"><img src="images/resource/author-2.jpg" alt=""></figure>
-
-								<div class="author-info">
-
-									<div class="author-name">Max Winchester</div>
-
-									<div class="designation">Kidny Patient</div>
-
-								</div>
-
-							</div>
-
-							<div class="thumb-item">
-
-								<figure class="thumb-box"><img src="images/resource/author-3.jpg" alt=""></figure>
-
-								<div class="author-info">
-
-									<div class="author-name">Max Winchester</div>
-
-									<div class="designation">Kidny Patient</div>
-
-								</div>
-
-							</div>
-
 						</div>
 
 					</div>
-
-
-
-
-
 				</div>
-
 			</div>
 
 		</section>
 
 		<!-- End Testimonial Section Two -->
 
+		<!-- Team Section -->
+
+		<section class="team-section">
+
+				<div class="auto-container">
+
+					<!-- Sec Title -->
+
+					<div class="sec-title centered">
+
+						<h2>OUR TEAM</h2>
+
+						<div class="separator" style="background-color: #ed6f1e;"></div>
+
+					</div>
+
+					<div class="row clearfix">
+
+						<!-- Team Block -->
+
+						<div class="team-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
+
+							<div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+
+								<div class="image">
+
+									<img src="images/team/team-1.png" alt="" />
+
+									<div class="overlay-box">
+
+										<ul class="social-icons">
+
+											<li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
+
+											<li><a href="#"><span class="fab fa-google"></span></a></li>
+
+											<li><a href="#"><span class="fab fa-twitter"></span></a></li>
+
+											<li><a href="#"><span class="fab fa-skype"></span></a></li>
+
+											<li><a href="#"><span class="fab fa-linkedin-in"></span></a></li>
+
+										</ul>
+									</div>
+
+								</div>
+
+								<div class="lower-content">
+
+									<h3><a href="#">Namrata Patil</a></h3>
+
+									<div class="designation">Manager</div>
+
+								</div>
+
+							</div>
+
+						</div>
 
 
-		<!-- News Section -->
 
-		<section class="news-section">
+						<!-- Team Block -->
 
-			<div class="auto-container">
+						<div class="team-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
 
-				<!-- Sec Title -->
+							<div class="inner-box wow fadeInUp" data-wow-delay="250ms" data-wow-duration="1500ms">
 
-				<div class="sec-title centered">
+								<div class="image">
 
-					<h2>Latest News & Articals</h2>
+									<img src="images/team/team-2.png" alt="" />
 
-					<div class="separator style-three"></div>
+									<div class="overlay-box">
 
+										<ul class="social-icons">
+
+											<li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
+
+											<li><a href="#"><span class="fab fa-google"></span></a></li>
+
+											<li><a href="#"><span class="fab fa-twitter"></span></a></li>
+
+											<li><a href="#"><span class="fab fa-skype"></span></a></li>
+
+											<li><a href="#"><span class="fab fa-linkedin-in"></span></a></li>
+
+										</ul>
+
+									</div>
+
+								</div>
+
+								<div class="lower-content">
+
+									<h3><a href="#">Sapana Gupta</a></h3>
+
+									<div class="designation">Assistant Manager</div>
+
+								</div>
+
+							</div>
+
+						</div>
+
+
+
+						<!-- Team Block -->
+
+						<div class="team-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
+
+							<div class="inner-box wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms">
+
+								<div class="image">
+
+									<img src="images/team/team-3.png" alt="" />
+
+									<div class="overlay-box">
+
+										<ul class="social-icons">
+
+											<li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
+
+											<li><a href="#"><span class="fab fa-google"></span></a></li>
+
+											<li><a href="#"><span class="fab fa-twitter"></span></a></li>
+
+											<li><a href="#"><span class="fab fa-skype"></span></a></li>
+
+											<li><a href="#"><span class="fab fa-linkedin-in"></span></a></li>
+
+										</ul>
+
+									</div>
+
+								</div>
+
+								<div class="lower-content">
+
+									<h3><a href="#">Vikrant Pawar</a></h3>
+
+									<div class="designation">HR</div>
+
+								</div>
+
+							</div>
+
+						</div>
+
+
+
+						<!-- Team Block -->
+
+						<div class="team-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
+
+							<div class="inner-box wow fadeInUp" data-wow-delay="750ms" data-wow-duration="1500ms">
+
+								<div class="image">
+
+									<img src="images/team/team-4.png" alt="" />
+
+									<div class="overlay-box">
+
+										<ul class="social-icons">
+
+											<li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
+
+											<li><a href="#"><span class="fab fa-google"></span></a></li>
+
+											<li><a href="#"><span class="fab fa-twitter"></span></a></li>
+
+											<li><a href="#"><span class="fab fa-skype"></span></a></li>
+
+											<li><a href="#"><span class="fab fa-linkedin-in"></span></a></li>
+
+										</ul>
+
+									</div>
+
+								</div>
+
+								<div class="lower-content">
+
+									<h3><a href="#">Shrikant Bhalekar</a></h3>
+
+									<div class="designation">Executive Engineer</div>
+
+								</div>
+
+							</div>
+
+						</div>
+					</div>
 				</div>
-
-				<div class="row clearfix">
-
-
-
-					<!-- News Block -->
-
-					<div class="news-block col-lg-4 col-md-6 col-sm-12">
-
-						<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-
-							<div class="image">
-
-								<div class="category">Artical</div>
-
-								<a href="blog-detail.html"><img src="images/resource/news-1.jpg" alt="" /></a>
-
-							</div>
-
-							<div class="lower-content">
-
-								<ul class="post-meta">
-
-									<li><a href="#">03 Comments</a></li>
-
-									<li><a href="#">June 21, 2023 at 8:12pm</a></li>
-
-									<li><a href="#">12 Liks</a></li>
-
-								</ul>
-
-								<h3><a href="blog-detail.html">Diagnostic Services for Efficient Results Picking Right
-									</a></h3>
-
-								<div class="text">There are a lot of women that are unaware of the numerous risks
-									associated with their health and eventually ignore the ...</div>
-
-								<a href="blog-detail.html" class="read-more">Read More</a>
-
-							</div>
-
-						</div>
-
-					</div>
-
-
-
-					<!-- News Block -->
-
-					<div class="news-block col-lg-4 col-md-6 col-sm-12">
-
-						<div class="inner-box wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
-
-							<div class="image">
-
-								<div class="category">Artical</div>
-
-								<a href="blog-detail.html"><img src="images/resource/news-2.jpg" alt="" /></a>
-
-							</div>
-
-							<div class="lower-content">
-
-								<ul class="post-meta">
-
-									<li><a href="#">03 Comments</a></li>
-
-									<li><a href="#">June 21, 2023 at 8:12pm</a></li>
-
-									<li><a href="#">12 Liks</a></li>
-
-								</ul>
-
-								<h3><a href="blog-detail.html">Reasons to Visit for Heart Specialist Us</a></h3>
-
-								<div class="text">There are a lot of women that are unaware of the numerous risks
-									associated with their health and eventually ignore the ...</div>
-
-								<a href="blog-detail.html" class="read-more">Read More</a>
-
-							</div>
-
-						</div>
-
-					</div>
-
-
-
-					<!-- News Block -->
-
-					<div class="news-block col-lg-4 col-md-6 col-sm-12">
-
-						<div class="inner-box wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
-
-							<div class="image">
-
-								<div class="category">Artical</div>
-
-								<a href="blog-detail.html"><img src="images/resource/news-3.jpg" alt="" /></a>
-
-							</div>
-
-							<div class="lower-content">
-
-								<ul class="post-meta">
-
-									<li><a href="#">03 Comments</a></li>
-
-									<li><a href="#">June 21, 2023 at 8:12pm</a></li>
-
-									<li><a href="#">12 Liks</a></li>
-
-								</ul>
-
-								<h3><a href="blog-detail.html">Preparing for an ECG Tips From Our Diagnosticians</a>
-								</h3>
-
-								<div class="text">There are a lot of women that are unaware of the numerous risks
-									associated with their health and eventually ignore the ...</div>
-
-								<a href="blog-detail.html" class="read-more">Read More</a>
-
-							</div>
-
-						</div>
-
-					</div>
-
-
-
-				</div>
-
-			</div>
-
-		</section>
-
-		<!-- End News Section -->
-
+        </section>
+
+<!-- End Team Section -->
+
+<!--------------------Clientels------------------------------------->
+<section id="clientel">
+  <div class="section" style=" background-color:#ffffff">
+    <div class="section_wrapper clearfix">
+      <div class="items_group clientslogo clearfix">
+        <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
+          <div class="col-lg-12">
+            <div class="row" style=" flex-wrap: nowrap;">
+              <img src="images\clients\zydus.png">
+              <img src="images\clients\LILLY.png">
+              <img src="images\clients\RELIANCE.png">
+              <img src="images\clients\astrazeneca-logo.png">
+              <img src="images\clients\bayer.png">
+              <img src="images\clients\SANOFI.png">
+              <img src="images\clients\NOVARTIS.png">
+              <img src="images\clients\BOEHRINGER.png">
+              <img src="images\clients\natco.png">
+              <img src="images\clients\MSD.png">
+              <img src="images\clients\LUPIN.png">
+              <img src="images\clients\janseen.png">
+              <img src="images\clients\DR.REDDY.png">
+              <img src="images\clients\fresenius kabi.png">
+              <img src="images\clients\ROCHE.png">
+              <img src="images\clients\bharat serum.png">
+              <img src="images\clients\biocon.png">
+              <img src="images\clients\MYLAN.png">
+              <img src="images\clients\WOCKHARDT.png">
+              <img src="images\clients\CIPLA.png">
+              <img src="images\clients\biochem.png">
+              <img src="images\clients\gsk.png">
+              <img src="images\clients\PANACEA.svg">
+              <img src="images\clients\HETERO.png">
+              <img src="images\clients\EMCURE.png">
+              <img src="images\clients\INTAS.png">
+              <img src="images\clients\GILEAD.svg">
+            </div>
+          </div>
+        </marquee>
+      </div>
+    </div>
+  </div>
+</section>
 
 
 		<!-- Newsletter Section -->
