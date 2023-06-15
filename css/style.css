@@ -4746,7 +4746,8 @@ img{
 
 .department-section-two{
 	position:relative;
-	padding:90px 0px 90px;
+	padding:90px 0px 60px;
+	margin-bottom: 40px;
 }
 
 .department-section-two.style-two{
@@ -5056,7 +5057,7 @@ img{
 }
 
 .services-section-two.style-two{
-	padding-bottom:180px;
+	/*padding-bottom:180px;*/
 }
 
 .services-section-two:before{
@@ -7479,7 +7480,7 @@ img{
 
 .blog-page-section{
 	position:relative;
-	padding:100px 0px 220px;
+	padding:100px 0px 50px;
 }
 
 .blog-page-section .styled-pagination{
@@ -8720,7 +8721,7 @@ img{
 
 .doctor-detail{
 	position: relative;
-	padding: 120px 0px 200px;
+	padding: 50px 0px 90px;
 }
 
 .doctor-detail .upper-box{
@@ -13649,3 +13650,5 @@ left:auto;
 	line-height:2.2em;
 	margin-bottom:50px;
 }
+
+
