@@ -123,7 +123,7 @@
 						<div class="border-one"></div>
 						<div class="border-two"></div>
 						<div class="icon-box">
-							<span class="icon flaticon-stethoscope"></span>
+							<span class="icon bi bi-award-fill"></span>
 						</div>
 						<h3><a href="#">EXPERIENCE & CORE KNOWLEDGE</a></h3>
 					</div>
@@ -135,7 +135,7 @@
 						<div class="border-one"></div>
 						<div class="border-two"></div>
 						<div class="icon-box">
-							<span class="icon flaticon-operating-room"></span>
+							<span class="icon bi bi-arrows-fullscreen"></span>
 						</div>
 						<h3><a href="#">CLIENT-CENTRIC<br> APPROACH</a></h3>
 					</div>
@@ -147,7 +147,7 @@
 						<div class="border-one"></div>
 						<div class="border-two"></div>
 						<div class="icon-box">
-							<span class="icon flaticon-van"></span>
+							<span class="icon bi bi-hand-thumbs-up-fill"></span>
 						</div>
 						<h3><a href="#">FAIR<br> DEALINGS</a></h3>
 					</div>
@@ -161,7 +161,7 @@
 						<div class="border-one"></div>
 						<div class="border-two"></div>
 						<div class="icon-box">
-							<span class="icon flaticon-water"></span>
+							<span class="icon bi bi-briefcase-fill"></span>
 						</div>
 						<h3><a href="#">ETHICAL BUSINESS<br> DEALINGS</a></h3>
 					</div>
@@ -173,7 +173,7 @@
 						<div class="border-one"></div>
 						<div class="border-two"></div>
 						<div class="icon-box">
-							<span class="icon flaticon-pharmacy"></span>
+							<span class="icon bi bi-currency-exchange"></span>
 						</div>
 						<h3><a href="#">COMPETITIVE<br> PRICING</a></h3>
 					</div>
@@ -186,14 +186,17 @@
 <!--------------------------------FACTSHEET---------------------------------------------->
 <section id="ourproducts" class="doctor-detail">
         <div class="container">
+          <div class="sec-title centered">
+                <h2>FACTSHEET</h2>
+                <div class="separator"></div>
+            </div>
             <div class="row">
                <!-------------second-colum----------------->
                 <div class="col-lg-12 col-md-12 col-sm-12 mt-2 card">
                     <div class="row">
-                        <h3 class="text-center p-3">FACTSHEET</h3>
                         <div class="container">
                             <div class="row px-5">
-                                <h5 class="fw-bolder text-decoration-underline">Basic Information</h5>
+                                <h5 style="color: #148594;">Basic Information</h5>
                             </div>
                         </div>
                         <div class="container">
@@ -283,7 +286,7 @@
                         </div>
                         <div class="container">
                             <div class="row px-5">
-                                <h5 class="fw-bolder text-decoration-underline">Trade & Market </h5>
+                                <h5 style="color: #148594;">Trade & Market </h5>
                             </div>
                         </div>
                         <div class="container">
@@ -298,7 +301,7 @@
                         </div>
                         <div class="container">
                             <div class="row px-5">
-                                <h5 class="fw-bolder text-decoration-underline">Statutory Profile</h5>
+                                <h5 style="color: #148594;">Statutory Profile</h5>
                             </div>
                         </div>
                         <div class="container">
@@ -343,7 +346,7 @@
                         </div>
                         <div class="container">
                             <div class="row px-5">
-                                <h5 class="fw-bolder text-decoration-underline">Packaging/Payment and Shipment Details</h5>
+                                <h5 style="color: #148594;">Packaging/Payment and Shipment Details</h5>
                             </div>
                         </div>
                         <div class="container">

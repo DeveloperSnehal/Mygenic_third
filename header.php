@@ -82,21 +82,15 @@
 										<li><a href="about.php">About us</a></li>
 										<li class=""><a href="our-product.php">Our Product</a>
 										</li>
-										<li class="dropdown has-mega-menu"><a href="#">Services</a>
-                                          <div class="mega-menu" style="left:600px; right:-150px;">
-												<div class="mega-menu-bar row clearfix">
-													<div class="column col-md-12 col-xs-12">
-														<ul>
-															<li><a href="contractmanufacturer.php">CONTRACT MANUFACTURER</a></li>
-															<li><a href="thirdparty.php">THIRD PARTY PHARMA MANUFACTURER</a></li>
-															<li><a href="qualitymedicine.php">QUALITY MEDICINE SUPPLIER</a></li>
-															<li><a href="leadingpharma.php">LEADING PHARMACEUTICAL EXPORTER</a></li>
-                                                            <li><a href="R&D.php">RESEARCH AND DEVELOPMENT</a></li>
-														</ul>
-													</div>
-												</div>
-											</div>
-                                        </li>
+										<li class="dropdown"><a href="#">Services</a>
+											<ul>
+												<li><a href="contractmanufacturer.php">CONTRACT MANUFACTURER</a></li>
+												<li><a href="thirdparty.php">THIRD PARTY PHARMA MANUFACTURER</a></li>
+												<li><a href="qualitymedicine.php">QUALITY MEDICINE SUPPLIER</a></li>
+												<li><a href="leadingpharma.php">LEADING PHARMACEUTICAL EXPORTER</a></li>
+												<li><a href="R&D.php">RESEARCH AND DEVELOPMENT</a></li>
+											</ul>
+										</li>
 										<li><a href="how-we-do.php">How We Do?</a></li>
 										<li><a href="contact.php">Contact us</a></li>
 									</ul>
