@@ -84,7 +84,7 @@
 													<div class="column col-md-12 col-xs-12">
 														<ul>
 															<li><a href="contractmanufacturer.php">CONTRACT MANUFACTURER</a></li>
-															<li><a href="team.html">THIRD PARTY PHARMA MANUFACTURER</a></li>
+															<li><a href="thirdparty.php">THIRD PARTY PHARMA MANUFACTURER</a></li>
 															<li><a href="faq.html">QUALITY MEDICINE SUPPLIER</a></li>
 															<li><a href="services.html">LEADING PHARMACEUTICAL EXPORTER</a></li>
                                                             <li><a href="services.html">RESEARCH AND DEVELOPMENT</a></li>
