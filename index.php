@@ -900,67 +900,36 @@
   </div>
 </section>
 
-
-		<!-- Newsletter Section -->
-
+<!-- Newsletter Section -->
 		<section class="newsletter-section">
-
 			<div class="auto-container">
-
 				<div class="row clearfix">
-
 					<!-- Title Column -->
-
 					<div class="title-column col-lg-6 col-md-12 col-sm-12">
-
 						<div class="inner-column">
-
-							<h2>Subscribe Our Newsletter</h2>
-
-							<div class="text">To receive email releases, simply provide us with your email address
-								below.</div>
-
+							<h2>Have any questions?</h2>
+							<div class="text">More Information about to the Mygenic.</div>
 						</div>
-
 					</div>
-
 					<!-- Form Column -->
-
 					<div class="form-column col-lg-6 col-md-12 col-sm-12">
-
 						<div class="inner-column">
-
 							<!-- Subscribe Form -->
-
 							<div class="subscribe-form">
-
 								<form method="post" action="http://expert-themes.com/html/meditech/contact.html">
-
 									<div class="form-group">
-
-										<input type="email" name="email" value="" placeholder="Your Email Address"
-											required>
-
+										<input type="email" name="email" value="" placeholder="Your Email Address" required>
 										<button type="submit" class="theme-btn btn-style-two"><span
-												class="txt">subscribe</span></button>
-
+												class="txt">Enquiry Here</span></button>
 									</div>
-
 								</form>
-
 							</div>
-
 						</div>
-
 					</div>
-
 				</div>
-
 			</div>
-
 		</section>
-
-		<!-- End Newsletter Section -->
+<!-- End Newsletter Section -->
 
 
 <?php include("footer.php"); ?>
