@@ -4,7 +4,7 @@
 	<!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/7.jpg);">
         <div class="auto-container">
-            <h1>Contact For MediTech</h1>
+            <h1>Contact For Mygenic</h1>
 			<div class="text">What We Actually Do?</div>
 			<ul class="bread-crumb clearfix">
 				<li><a href="index.html"><span class="fas fa-home"></span> Home </a></li>
@@ -86,7 +86,7 @@
     <!-- End Map Section -->
 
 	<!-- Newsletter Section -->
-	<section class="newsletter-section style-two">
+	<section class="newsletter-section style-two" style="padding:40px;">
 		<div class="auto-container">
 			<div class="row clearfix">
 				<!-- Title Column -->
