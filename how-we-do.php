@@ -6,7 +6,7 @@
 
     <div class="auto-container">
 
-        <h1>Departments of MediTech</h1>
+        <h1>How We Do?</h1>
 
         <div class="text">What We Actually Do?</div>
 
@@ -25,596 +25,273 @@
 <!--End Page Title-->
 
 
-
-<!--Sidebar Page Container-->
-
-<div class="sidebar-page-container style-two">
-
-    <div class="auto-container">
-
-        <div class="row clearfix">
-
-
-
-            <!--Sidebar Side-->
-
-            <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
-
-                <aside class="sidebar">
-
-
-
-                    <!--Blog Category Widget-->
-
-                    <div class="sidebar-widget sidebar-blog-category">
-
-                        <ul class="blog-cat">
-
-                            <li><a href="services.html">All Departments</a></li>
-
-                            <li class="active"><a href="department-detail.html">Urology Department</a></li>
-
-                            <li><a href="department-detail.html">Neurology Department</a></li>
-
-                            <li><a href="department-detail.html">Gastrology Department</a></li>
-
-                            <li><a href="department-detail.html">Cardiology Department</a></li>
-
-                            <li><a href="department-detail.html">Eye Care Department</a></li>
-
-                            <li><a href="department-detail.html">Dentel Care Department</a></li>
-
-                        </ul>
-
-                    </div>
-
-
-
-                    <!-- Help widgets -->
-
-                    <div class="sidebar-widget need-help">
-
-                        <h3>Need Help ?</h3>
-
-                        <p>Please feel free to contact us. We will get back to you. Or just call us now</p>
-
-                        <ul>
-
-                            <li><i class="fa fa-tty"></i> +0 000000 0000</li>
-
-                            <li><i class="far fa-envelope"></i> <a href="#">mail@meditech.com</a></li>
-
-                        </ul>
-
-                    </div>
-
-
-
-                    <!--Brochure Widget-->
-
-                    <div class="sidebar-widget brochure-widget">
-
-                        <div class="widget-content">
-
-
-
-                            <!-- Sidebar Title -->
-
-                            <div class="sidebar-title">
-
-                                <h2>Our Broucher</h2>
-
-                                <div class="separator"></div>
-
-                            </div>
-
-
-
-                            <ul class="brouchers">
-
-                                <li><a href="#"><span class="icon far fa-file-pdf"></span>Download PSD File</a></li>
-
-                                <li><a href="#"><span class="icon far fa-file-word"></span>Download Doc File</a></li>
-
-                                <li><a href="#"><span class="icon far fa-file-excel"></span>Download Excel File</a></li>
-
-                            </ul>
-
-                        </div>
-
-                    </div>
-
-                    <!--End Brochure Widget-->
-
-
-
-                </aside>
-
-            </div>
-
-
-
-            <!--Content Side-->
-
-            <div class="content-side col-lg-8 col-md-12 col-sm-12">
-
-                <div class="department-detail">
-
-                    <div class="image-box">
-
-                        <figure><img src="images/resource/department-detail.jpg" alt=""></figure>
-
-                    </div>
-
-
-
-                    <div class="lower-content">
-
-                        <h2>Departments Of Neurology</h2>
-
-                        <h5 class="theme_color">ResoFus Alomar Treatment for Essential Tremor and Parkinson's Disease
-                        </h5>
-
-                        <p>Resofus combines MR imaging and focused ultrasound into MR guided Focused Ultrasound
-                            technology, and provides a transcranial, non-invasive image-guided personalized treatment
-                            modality with no incisions and with no ionizing radiation.</p>
-
-
-
-                        <p>This combination of continuous MR imaging and very highly focused acoustic sound waves
-                            provides the ability to provide pinpoint precision treatment at the planned target, without
-                            causing damage to any of the normal surrounding tissue. This precise local lesioning stops
-                            the improper transfer of electrical signals that induce the tremor, and it stops.</p>
-
-
-
-                        <div class="two-column">
-
-                            <div class="row clearfix">
-
-                                <div class="info-column col-md-6 col-sm-6 col-xs-12">
-
-                                    <p>In the case of parkinson’s disease is not a cure, it just improves quality of
-                                        life reducing and even stopping tremors. Resofus may be used for treatment
-                                        movement disorders such Neuropathic pain, Parkinson’s disease and Essential
-                                        Tremor. This precise local lesioning stops the improper transfer of electrical
-                                        signals that induce the tremor, and it stops.</p>
-
-                                </div>
-
-
-
-                                <div class="image-column col-md-6 col-sm-6 col-xs-12">
-
-                                    <div class="image"><a href="images/resource/doctor-4.jpg"
-                                            class="lightbox-image"><img src="images/resource/doctor-4.jpg" alt=""></a>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <!-- Service Detail -->
-
-
-
-                <!-- Price Features -->
-
-                <section class="price-features">
-
-                    <div class="auto-container">
-
-                        <div class="row clearfix">
-
-                            <!-- Price Feature -->
-
-                            <div class="price-feature col-lg-6 col-md-6 col-sm-12">
-
-                                <h3>Investigation</h3>
-
-                                <ul>
-
-                                    <li><span class="text">Gastroscopy </span> <span class="price">$320</span></li>
-
-                                    <li><span class="text">Colonoscopy </span> <span class="price">$145</span></li>
-
-                                    <li><span class="text">Bronshoscopy </span> <span class="price">$270</span></li>
-
-                                    <li><span class="text">Paratyroid Scan </span> <span class="price">$80</span></li>
-
-                                    <li><span class="text">Allergy Testing </span> <span class="price">$385</span></li>
-
-                                </ul>
-
-                            </div>
-
-
-
-                            <!-- Price Feature -->
-
-                            <div class="price-feature col-lg-6 col-md-6 col-sm-12">
-
-                                <h3>Treatments</h3>
-
-                                <ul>
-
-                                    <li><span class="text">Paratyroid Scan</span> <span class="price">$80</span></li>
-
-                                    <li><span class="text">Allergy Testing</span> <span class="price">$385</span></li>
-
-                                    <li><span class="text">Colonoscopy</span> <span class="price">$145</span></li>
-
-                                    <li><span class="text">Gastroscopy</span> <span class="price">$320</span></li>
-
-                                    <li><span class="text">Bronshoscopy</span> <span class="price">$270</span></li>
-
-                                </ul>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </section>
-
-
-
-            </div>
-
-
-
-        </div>
-
-    </div>
-
-</div>
-
-
-
-<!-- Doctors Section -->
-
-<section class="doctors-section style-three">
-
-    <div class="auto-container">
-
-
-
-        <!-- Features Tab -->
-
-        <div class="doctors-tabs tabs-box">
-
-
-
-            <ul class="doctors-thumb tab-buttons clearfix">
-
-                <li data-tab="#doctor-tab-1" class="tab-btn active-btn">
-
-                    <div class="image-box">
-
-                        <figure><img src="images/resource/doctor-thumb-1.jpg" alt=""></figure>
-
-                    </div>
-
-                </li>
-
-                <li data-tab="#doctor-tab-2" class="tab-btn ">
-
-                    <div class="image-box">
-
-                        <figure><img src="images/resource/doctor-thumb-2.jpg" alt=""></figure>
-
-                    </div>
-
-                </li>
-
-                <li data-tab="#doctor-tab-3" class="tab-btn ">
-
-                    <div class="image-box">
-
-                        <figure><img src="images/resource/doctor-thumb-3.jpg" alt=""></figure>
-
-                    </div>
-
-                </li>
-
-            </ul>
-
-
-
-            <!--Tabs Container-->
-
-            <div class="tabs-content">
-
-                <!--Tab / Active Tab-->
-
-                <div class="doctor-info tab active-tab" id="doctor-tab-1">
-
-                    <div class="row clearfix">
-
-                        <!-- Image-column -->
-
-                        <div class="image-column col-lg-5 col-md-12 col-sm-12">
-
-                            <div class="inner-column">
-
-                                <div class="image-box">
-
-                                    <a href="images/resource/doctor-1.jpg" class="lightbox-image"
-                                        data-fancybox="Gallery"><img src="images/resource/doctor-1.jpg" alt=""></a>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-
-
-                        <!-- Image-column -->
-
-                        <div class="content-column col-lg-5 col-md-12 col-sm-12">
-
-                            <div class="inner-column">
-
-                                <h3 class="name"><a href="doctors.html">Dr. Johan Doe</a></h3>
-
-                                <span class="designation">Neurosurgeon</span>
-
-                                <p>Duis sed odio sit amet nibh vulate cursus sit amet mauris.Morbi accumsan ipsum velit.
-                                    Nam nec tellus a odio tincidunt auctor a ornare odio. Sed no mauris vitae erat
-                                    consequat auctor eu Suspend isse potenti. Maecenas dapibus ac tellus sed pulvinar.
-                                    Nam nec tellus a odio tincidunt auctor a ornare odio. </p>
-
-                                <p>Nam nec tellus a odio tincidunt auctor a ornare odio. Sed no mauris vitae erat
-                                    consequat auctor eu Suspend isse potenti. Maecenas dapibus ac tellus sed pulvinar.
-                                </p>
-
-                                <span class="timing"><i class="flaticon-alarm-clock"></i> Monday - Friday ( 5:00pm - 8pm
-                                    )</span>
-
-                                <div class="clearfix">
-
-                                    <div class="social-links">
-
-                                        <h4>Follow Me:</h4>
-
-                                        <ul class="clearfix">
-
-                                            <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
-
-                                            <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-
-                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-
-                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-
-                                            <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-
-                                        </ul>
-
-                                    </div>
-
-
-
-                                    <div class="call-btn">
-
-                                        <a href="doctors.html" class="theme-btn btn-style-two"><span class="txt">Book
-                                                Appointment</span></a>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-
-
-                <!--Tab / Active Tab-->
-
-                <div class="doctor-info tab" id="doctor-tab-2">
-
-                    <div class="row clearfix">
-
-                        <!-- Image-column -->
-
-                        <div class="image-column col-md-5 col-sm-12 col-xs-12">
-
-                            <div class="inner-column">
-
-                                <div class="image-box">
-
-                                    <a href="images/resource/doctor-1.jpg" class="lightbox-image"
-                                        data-fancybox="Gallery"><img src="images/resource/doctor-1.jpg" alt=""></a>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-
-
-                        <!-- Image-column -->
-
-                        <div class="content-column col-md-5 col-sm-12 col-xs-12">
-
-                            <div class="inner-column">
-
-                                <h3 class="name"><a href="doctors.html">Dr. Johan Doe</a></h3>
-
-                                <span class="designation">Neurosurgeon</span>
-
-                                <p>Duis sed odio sit amet nibh vulate cursus sit amet mauris.Morbi accumsan ipsum velit.
-                                    Nam nec tellus a odio tincidunt auctor a ornare odio. Sed no mauris vitae erat
-                                    consequat auctor eu Suspend isse potenti. Maecenas dapibus ac tellus sed pulvinar.
-                                    Nam nec tellus a odio tincidunt auctor a ornare odio. </p>
-
-                                <p>Nam nec tellus a odio tincidunt auctor a ornare odio. Sed no mauris vitae erat
-                                    consequat auctor eu Suspend isse potenti. Maecenas dapibus ac tellus sed pulvinar.
-                                </p>
-
-                                <span class="timing"><i class="flaticon-alarm-clock"></i> Monday - Friday ( 5:00pm - 8pm
-                                    )</span>
-
-                                <div class="clearfix">
-
-                                    <div class="social-links">
-
-                                        <h4>Follow Me:</h4>
-
-                                        <ul class="clearfix">
-
-                                            <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
-
-                                            <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-
-                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-
-                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-
-                                            <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-
-                                        </ul>
-
-                                    </div>
-
-
-
-                                    <div class="call-btn">
-
-                                        <a href="doctors.html" class="theme-btn btn-style-two"><span class="txt">Book
-                                                Appointment</span></a>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-
-
-                <!--Tab / Active Tab-->
-
-                <div class="doctor-info tab" id="doctor-tab-3">
-
-                    <div class="row clearfix">
-
-                        <!-- Image-column -->
-
-                        <div class="image-column col-md-5 col-sm-12 col-xs-12">
-
-                            <div class="inner-column">
-
-                                <div class="image-box">
-
-                                    <a href="images/resource/doctor-1.jpg" class="lightbox-image"
-                                        data-fancybox="Gallery"><img src="images/resource/doctor-1.jpg" alt=""></a>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-
-
-                        <!-- Image-column -->
-
-                        <div class="content-column col-md-5 col-sm-12 col-xs-12">
-
-                            <div class="inner-column">
-
-                                <h3 class="name"><a href="doctors.html">Dr. Johan Doe</a></h3>
-
-                                <span class="designation">Neurosurgeon</span>
-
-                                <p>Duis sed odio sit amet nibh vulate cursus sit amet mauris.Morbi accumsan ipsum velit.
-                                    Nam nec tellus a odio tincidunt auctor a ornare odio. Sed no mauris vitae erat
-                                    consequat auctor eu Suspend isse potenti. Maecenas dapibus ac tellus sed pulvinar.
-                                    Nam nec tellus a odio tincidunt auctor a ornare odio. </p>
-
-                                <p>Nam nec tellus a odio tincidunt auctor a ornare odio. Sed no mauris vitae erat
-                                    consequat auctor eu Suspend isse potenti. Maecenas dapibus ac tellus sed pulvinar.
-                                </p>
-
-                                <span class="timing"><i class="flaticon-alarm-clock"></i> Monday - Friday ( 5:00pm - 8pm
-                                    )</span>
-
-                                <div class="clearfix">
-
-                                    <div class="social-links">
-
-                                        <h4>Follow Me:</h4>
-
-                                        <ul class="clearfix">
-
-                                            <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
-
-                                            <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-
-                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-
-                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-
-                                            <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-
-                                        </ul>
-
-                                    </div>
-
-
-
-                                    <div class="call-btn">
-
-                                        <a href="doctors.html" class="theme-btn btn-style-two"><span class="txt">Book
-                                                Appointment</span></a>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-
-
-            </div>
-
-
-
-        </div>
-
-
-
-    </div>
-
-</section>
-
-<!-- End Doctors Section -->
+	<!-- Hospital Section -->
+    <div class="sec-title centered pt-5">
+		<h2>HOW WE DO?</h2>
+		<div class="separator"></div>
+	</div>
+
+	<section class="hospital-section" style="background-image:url(images/background/8.jpg)">
+		<div class="auto-container">
+			<div class="row clearfix">
+
+				<!-- Image Column -->
+				<div class="image-column col-lg-5 col-md-12 col-sm-12">
+					<div class="inner-column wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="image">
+							<img src="images/how we do/raw-material.png" alt="" />
+						</div>
+					</div>
+				</div>
+				<!-- Content Column -->
+				<div class="content-column col-lg-7 col-md-12 col-sm-12">
+					<div class="inner-column">
+						<!-- Sec Title -->
+						<div class="sec-title">
+							<h2 style="font-size: 25px; color:#ed6f1e">RAW MATERIAL</h2>
+							<div class="separator"></div>
+						</div>
+						<!-- Hospital Tabs-->
+						<div class="hospital-info-tabs">
+							<!-- Hospital Tabs-->
+							<div class="hospital-tabs tabs-box">
+								<!--Tabs Container-->
+								<div class="tabs-content">
+
+									<!--Tab / Active Tab-->
+									<div class="tab active-tab" id="mission">
+										<div class="content">
+											<div class="row clearfix">
+
+												<div class="column col-lg-12 col-md-9 col-sm-12">
+													<div class="text">
+														<p>Raw materials play a crucial role in the pharmaceutical industry as they are the building blocks for the production of drugs and medications. These materials, also known as active pharmaceutical ingredients (APIs), are the substances responsible for the therapeutic effects of the drugs. </p>
+														<p>APIs are the primary raw materials in drug formulation. They are chemically active substances that have a direct impact on the treatment of a specific disease or condition. Excipients are non-active substances used in drug formulation alongside APIs. Solvents are used during the manufacturing process to dissolve APIs and excipients, facilitating their combination and formulation into a final dosage form.</p>
+                                                        <p>In addition to the above, the pharmaceutical industry may use other raw materials such as antimicrobial agents, antioxidants, chelating agents, and pH modifiers. These materials assist in preserving the stability of the drug product, preventing microbial growth, and maintaining its quality over its shelf life.</p>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End Hospital Section -->
+
+
+	<section class="hospital-section" style="background-image:url(images/background/8.jpg)">
+		<div class="auto-container">
+			<div class="row clearfix">
+				<!-- Content Column -->
+				<div class="content-column col-lg-7 col-md-12 col-sm-12">
+					<div class="inner-column">
+						<!-- Sec Title -->
+						<div class="sec-title">
+							<h2 style="font-size: 25px; color:#ed6f1e">MANUFACTURING</h2>
+							<div class="separator"></div>
+						</div>
+						<!-- Hospital Tabs-->
+						<div class="hospital-info-tabs">
+							<!-- Hospital Tabs-->
+							<div class="hospital-tabs tabs-box">
+								<!--Tabs Container-->
+								<div class="tabs-content">
+
+									<!--Tab / Active Tab-->
+									<div class="tab active-tab" id="mission">
+										<div class="content">
+											<div class="row clearfix">
+
+												<div class="column col-lg-12 col-md-9 col-sm-12">
+													<div class="text">
+														<p>Manufacturing pharmaceutical products such as tablets (tabs), syrups, and injections involves distinct processes and considerations.</p>
+                                                        <p><b>Tablet:</b> Tablets are solid dosage forms that contain one or more active pharmaceutical ingredients (APIs) along with excipients. The manufacturing process typically involves Blending, Granulation, Compression, Coating, Packaging process.</p>
+                                                        <p><b>Syrup:</b> Syrups are liquid dosage forms containing dissolved or suspended APIs and flavoring agents. The manufacturing process typically involves Preparation of Solution/Suspension, Mixing and Homogenization, Filtration, Flavoring and Sweetening, Packaging process</p>
+                                                        <p><b>Injection:</b> Injections are sterile formulations intended for parenteral administration. The manufacturing process for injections involves strict aseptic techniques and may vary depending on the type of injection (e.g., intravenous, intramuscular, subcutaneous). Some general steps involved in injection manufacturing are Sterilization, Preparation of API Solution, Filtration and Clarification, Filling and Sealing, Quality Control, Packaging.</p>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Image Column -->
+				<div class="image-column col-lg-5 col-md-12 col-sm-12">
+					<div class="inner-column wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="image">
+							<img src="images/how we do/manufacturing.png" alt="" />
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End Hospital Section -->
+
+	<section class="hospital-section" style="background-image:url(images/background/8.jpg)">
+		<div class="auto-container">
+			<div class="row clearfix">
+
+				<!-- Image Column -->
+				<div class="image-column col-lg-5 col-md-12 col-sm-12">
+					<div class="inner-column wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="image">
+							<img src="images/how we do/storage.png" alt="" />
+						</div>
+					</div>
+				</div>
+				<!-- Content Column -->
+				<div class="content-column col-lg-7 col-md-12 col-sm-12">
+					<div class="inner-column">
+						<!-- Sec Title -->
+						<div class="sec-title">
+							<h2 style="font-size: 25px; color:#ed6f1e">STORAGE</h2>
+							<div class="separator"></div>
+						</div>
+						<!-- Hospital Tabs-->
+						<div class="hospital-info-tabs">
+							<!-- Hospital Tabs-->
+							<div class="hospital-tabs tabs-box">
+								<!--Tabs Container-->
+								<div class="tabs-content">
+
+									<!--Tab / Active Tab-->
+									<div class="tab active-tab" id="mission">
+										<div class="content">
+											<div class="row clearfix">
+
+												<div class="column col-lg-12 col-md-9 col-sm-12">
+													<div class="text">
+														<p>Pharmaceutical products require various types of storage facilities and conditions based on their specific requirements. </p>
+														<p><b>Ambient Storage:</b> Ambient storage refers to storing pharmaceutical products at room temperature, typically between 20-25°C (68-77°F). This is the most common storage condition for many medications that do not require specific temperature controls. However, it's important to protect them from excessive heat, direct sunlight, moisture, and extreme temperature fluctuations.</p>
+                                                        <p><b>Cold Chain Storage:</b> The cold chain refers to the uninterrupted temperature-controlled storage and transportation of temperature-sensitive pharmaceuticals, especially vaccines and biologics. It involves maintaining specific temperature ranges from the point of manufacture to the point of administration, including storage, transportation, and distribution. Cold chain storage typically requires a combination of refrigeration and freezer storage facilities, as well as temperature-monitoring devices and transportation equipment.</p>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End Hospital Section -->
+
+
+	<section class="hospital-section" style="background-image:url(images/background/8.jpg)">
+		<div class="auto-container">
+			<div class="row clearfix">
+				<!-- Content Column -->
+				<div class="content-column col-lg-7 col-md-12 col-sm-12">
+					<div class="inner-column">
+						<!-- Sec Title -->
+						<div class="sec-title">
+							<h2 style="font-size: 25px; color:#ed6f1e">TRANSPORT</h2>
+							<div class="separator"></div>
+						</div>
+						<!-- Hospital Tabs-->
+						<div class="hospital-info-tabs">
+							<!-- Hospital Tabs-->
+							<div class="hospital-tabs tabs-box">
+								<!--Tabs Container-->
+								<div class="tabs-content">
+
+									<!--Tab / Active Tab-->
+									<div class="tab active-tab" id="mission">
+										<div class="content">
+											<div class="row clearfix">
+
+												<div class="column col-lg-12 col-md-9 col-sm-12">
+													<div class="text">
+														<p>In the pharmaceutical industry, transporting drugs and healthcare products requires careful consideration to ensure their integrity, safety, and efficacy.</p>
+                                                        <p><b>Cold Van Transport:</b> Cold van transport, also known as refrigerated van transport or temperature-controlled van transport, equipped with refrigeration or cooling systems. This type of transport is specifically designed to maintain the desired temperature range throughout the journey, ensuring the integrity and stability of temperature-sensitive products.</p>
+                                                        <p><b>Normal Van Transport:</b> Normal van transport are the vehicles without specialized refrigeration or cooling systems. These vans do not provide temperature control and are suitable for products that do not require specific temperature conditions.</p>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Image Column -->
+				<div class="image-column col-lg-5 col-md-12 col-sm-12">
+					<div class="inner-column wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="image">
+							<img src="images/how we do/transport.png" alt="" />
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End Hospital Section -->
+
+    <section class="hospital-section" style="background-image:url(images/background/8.jpg)">
+		<div class="auto-container">
+			<div class="row clearfix">
+
+				<!-- Image Column -->
+				<div class="image-column col-lg-5 col-md-12 col-sm-12">
+					<div class="inner-column wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="image">
+							<img src="images/how we do/export.png" alt="" />
+						</div>
+					</div>
+				</div>
+				<!-- Content Column -->
+				<div class="content-column col-lg-7 col-md-12 col-sm-12">
+					<div class="inner-column">
+						<!-- Sec Title -->
+						<div class="sec-title">
+							<h2 style="font-size: 25px; color:#ed6f1e">EXPORT</h2>
+							<div class="separator"></div>
+						</div>
+						<!-- Hospital Tabs-->
+						<div class="hospital-info-tabs">
+							<!-- Hospital Tabs-->
+							<div class="hospital-tabs tabs-box">
+								<!--Tabs Container-->
+								<div class="tabs-content">
+
+									<!--Tab / Active Tab-->
+									<div class="tab active-tab" id="mission">
+										<div class="content">
+											<div class="row clearfix">
+
+												<div class="column col-lg-12 col-md-9 col-sm-12">
+													<div class="text">
+														<p>Export in the pharmaceutical industry refers to the process of selling and distributing pharmaceutical products to foreign markets or countries outside the company's home country. Pharmaceutical exports play a significant role in expanding the reach of pharmaceutical companies, accessing new markets, and meeting the healthcare needs of diverse populations.</p>
+														<p><b>Cold Chain Export:</b> Cold chain export refers to the transportation of temperature-sensitive products, including pharmaceuticals, in a controlled and temperature-monitored environment throughout the export process. It involves maintaining the required temperature range from the point of origin to the final destination to ensure the integrity and efficacy of the products.</p>
+                                                        <p><b>Normal Export:</b> Normal export refers to the without specific temperature controls or requirements. It typically involves shipping products that are stable at ambient temperatures and do not require specialized temperature-controlled packaging or transport.</p>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End Hospital Section -->
 
 <?php include("footer.php"); ?>
