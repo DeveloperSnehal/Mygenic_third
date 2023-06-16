@@ -83,7 +83,7 @@
 												<div class="mega-menu-bar row clearfix">
 													<div class="column col-md-12 col-xs-12">
 														<ul>
-															<li><a href="about.html">CONTRACT MANUFACTURER</a></li>
+															<li><a href="contractmanufacturer.php">CONTRACT MANUFACTURER</a></li>
 															<li><a href="team.html">THIRD PARTY PHARMA MANUFACTURER</a></li>
 															<li><a href="faq.html">QUALITY MEDICINE SUPPLIER</a></li>
 															<li><a href="services.html">LEADING PHARMACEUTICAL EXPORTER</a></li>
