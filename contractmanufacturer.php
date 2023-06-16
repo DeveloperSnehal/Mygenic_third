@@ -39,7 +39,7 @@
 				<div class="image-column col-lg-5 col-md-12 col-sm-12">
 					<div class="inner-column wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
-							<img src="images\services\SERVICE1.png" alt="" />
+							<img class="img-fluid" src="images\services\SERVICE1.png" alt=""  />
 						</div>
 					</div>
 				</div>
@@ -133,7 +133,7 @@
 				<div class="image-column col-lg-5 col-md-12 col-sm-12">
 					<div class="inner-column wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
-							<img src="images\services\services2.png" alt="" />
+							<img class="img-fluid" src="images\services\services2.png" alt="" style="width: 70%!important;" />
 						</div>
 					</div>
 				</div>
