@@ -87,7 +87,7 @@
 															<li><a href="thirdparty.php">THIRD PARTY PHARMA MANUFACTURER</a></li>
 															<li><a href="qualitymedicine.php">QUALITY MEDICINE SUPPLIER</a></li>
 															<li><a href="leadingpharma.php">LEADING PHARMACEUTICAL EXPORTER</a></li>
-                                                            <li><a href="services.html">RESEARCH AND DEVELOPMENT</a></li>
+                                                            <li><a href="R&D.php">RESEARCH AND DEVELOPMENT</a></li>
 														</ul>
 													</div>
 												</div>
