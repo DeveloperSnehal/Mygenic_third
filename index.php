@@ -8,15 +8,15 @@
 					<div class="swiper-slide slide" style="background-image:url(images/main-slider/1.jpg)">
 						<div class="auto-container">
 							<div class="content clearfix">
-								<div class="title">Welcome our Medical Care Center</div>
+								<div class="title">Welcome our MyGenic Healthcare Private Limited</div>
 								<h2>Take Care of Your Health</h2>
 								<div class="text">We're always available for our Patients with emergent problems. You
 									can easily reach us 24/7 via the phone number below:</div>
 								<div class="btn-box clearfix">
-									<a href="contact.html" class="theme-btn btn-style-two"><span class="txt">Our
+									<a href="contact.php" class="theme-btn btn-style-two"><span class="txt">Our
 											Services</span></a>
-									<a href="contact.html" class="theme-btn phone-btn"><span
-											class="icon flaticon-call"></span>555–123–2323</a>
+									<a href="contact.php" class="theme-btn phone-btn"><span
+											class="icon flaticon-call"></span>+91 9867592446</a>
 								</div>
 							</div>
 						</div>
@@ -24,15 +24,15 @@
 					<div class="swiper-slide slide" style="background-image:url(images/main-slider/1.jpg)">
 						<div class="auto-container">
 							<div class="content">
-								<div class="title">Welcome our Medical Care Center</div>
+								<div class="title">Welcome our MyGenic Healthcare Private Limited</div>
 								<h2>Take Care of Your Health</h2>
 								<div class="text">We're always available for our Patients with emergent problems. You
 									can easily reach us 24/7 via the phone number below:</div>
 								<div class="btn-box">
-									<a href="contact.html" class="theme-btn btn-style-two"><span class="txt">Our
+									<a href="contact.php" class="theme-btn btn-style-two"><span class="txt">Our
 											Services</span></a>
-									<a href="contact.html" class="theme-btn phone-btn"><span
-											class="icon flaticon-call"></span>555–123–2323</a>
+									<a href="contact.php" class="theme-btn phone-btn"><span
+											class="icon flaticon-call"></span>+91 9867592446</a>
 								</div>
 							</div>
 						</div>
@@ -40,12 +40,12 @@
 					<div class="swiper-slide slide" style="background-image:url(images/main-slider/1.jpg)">
 						<div class="auto-container">
 							<div class="content">
-								<div class="title">Welcome our Medical Care Center</div>
+								<div class="title">Welcome our MyGenic Healthcare Private Limited</div>
 								<h2>Take Care of Your Health</h2>
 								<div class="text">We're always available for our Patients with emergent problems. You can easily reach us 24/7 via the phone number below:</div>
 								<div class="btn-box">
-									<a href="contact.html" class="theme-btn btn-style-two"><span class="txt">Our Services</span></a>
-									<a href="contact.html" class="theme-btn phone-btn"><span class="icon flaticon-call"></span>555–123–2323</a>
+									<a href="contact.php" class="theme-btn btn-style-two"><span class="txt">Our Services</span></a>
+									<a href="contact.php" class="theme-btn phone-btn"><span class="icon flaticon-call"></span>+91 9867592446</a>
 								</div>
 							</div>
 						</div>
@@ -75,12 +75,12 @@
 						<div class="department-block">
 							<div class="inner-box">
 								<div class="upper-box">
-									<div class="icon flaticon-kidneys"></div>
+									<div class="icon bi bi-gear-wide-connected"></div>
 									<h3><a href="#">MANUFACTURING</a></h3>
 								</div>
 								<div class="text">MyGenic Healthcare Private Limited may manufacture a range of pharmaceutical products including tablets, injections, and anti-cancer capsules. </div>
 								<div class="read-outer">
-									<a href="#" class="read-more">Read More <span
+									<a href="contractmanufacturer.php" class="read-more">Read More <span
 											class="icon fas fa-angle-double-right"></span></a>
 								</div>
 							</div>
@@ -92,12 +92,12 @@
 						<div class="department-block">
 							<div class="inner-box">
 								<div class="upper-box">
-									<div class="icon flaticon-brain"></div>
+									<div class="icon bi bi-globe"></div>
 									<h3><a href="#">EXPORTING</a></h3>
 								</div>
 								<div class="text">By developing effective processes and partnerships, the company can efficiently export their pharmaceutical products to a range of global markets. </div>
 								<div class="read-outer">
-									<a href="#" class="read-more">Read More <span class="icon fas fa-angle-double-right"></span></a>
+									<a href="leadingpharma.php" class="read-more">Read More <span class="icon fas fa-angle-double-right"></span></a>
 								</div>
 							</div>
 						</div>
@@ -110,12 +110,12 @@
 						<div class="department-block">
 							<div class="inner-box">
 								<div class="upper-box">
-									<div class="icon flaticon-kidneys"></div>
+									<div class="icon bi bi-pencil-square"></div>
 									<h3><a href="#">QUALITY CONTROL</a></h3>
 								</div>
 								<div class="text">MyGenic Healthcare Private Limited likely has a quality control system in place to ensure that their products meet industry standards and regulations. </div>
 								<div class="read-outer">
-									<a href="#" class="read-more">Read More <span class="icon fas fa-angle-double-right"></span></a>
+									<a href="qualitymedicine.php" class="read-more">Read More <span class="icon fas fa-angle-double-right"></span></a>
 								</div>
 							</div>
 						</div>
@@ -203,7 +203,7 @@
 
 									<div class="icon-box">
 
-										<span class="icon flaticon-doctor-stethoscope"></span>
+										<span class="icon bi bi-prescription2"></span>
 
 									</div>
 
@@ -225,7 +225,7 @@
 
 									<div class="icon-box">
 
-										<span class="icon flaticon-operating-room"></span>
+										<span class="icon bi bi-database-fill-gear"></span>
 
 									</div>
 
@@ -301,7 +301,7 @@
 
 									<div class="icon-box">
 
-										<span class="icon flaticon-water"></span>
+										<span class="icon bi bi-truck"></span>
 
 									</div>
 

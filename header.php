@@ -20,6 +20,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 	<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
 	<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+	<!-------bootstrap-icons-------->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+	<link href="/your-path-to-uicons/css/uicons-[your-style].css" rel="stylesheet">
 </head>
 
 <body>
@@ -104,7 +108,7 @@
 							<div class="outer-box clearfix">
 								<!-- Button Box -->
 								<div class="btn-box">
-									<a href="contact.php" class="theme-btn btn-style-one"><span class="txt">Appointment</span></a>
+									<a href="contact.php" class="theme-btn btn-style-one"><span class="txt">Request for a pickup</span></a>
 								</div>
 							</div>
 						</div>

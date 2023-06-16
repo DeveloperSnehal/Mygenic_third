@@ -2591,7 +2591,7 @@ img{
    position: absolute;
     left: 0px;
 	top:0px;
-    width: 50%;
+    width: 55%;
     bottom:50px;
 	float:right;
 	height:100%;
@@ -2890,7 +2890,7 @@ img{
 	width:14px;
 	height:14px;
 	border-radius:50%;
-	background-color:#000222;
+	background-color:#ed6f1e;
 }
 
 /***
@@ -2992,7 +2992,7 @@ img{
 
 .team-section{
 	position:relative;
-	padding:20px 0px 60px;
+	padding:20px 0px 20px;
 }
 
 .team-block{
@@ -3825,7 +3825,7 @@ img{
 
 .main-footer .widgets-section{
 	position:relative;
-	padding:90px 0px 60px;
+	padding:90px 0px 10px;
 }
 
 .main-footer .footer-widget{
@@ -13652,3 +13652,8 @@ left:auto;
 }
 
 
+@media (min-width: 0px) and (max-width: 300px){
+    .health-section .content-column .border-line:before {
+		width:200px;
+    }
+  }
