@@ -10328,8 +10328,8 @@ img{
 ====================================================================*/
 .shop-single .product-details .prod-tabs{
 	position:relative;
-	padding-bottom:60px;
-	margin-bottom:80px;
+	padding-bottom:20px;
+	margin-bottom:50px;
 	border-bottom:1px solid #cccccc;
 }
 .shop-single .product-details .prod-tabs .tab-btns{
