@@ -39,7 +39,7 @@
 				<div class="image-column col-lg-5 col-md-12 col-sm-12">
 					<div class="inner-column wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
-							<img src="images\services\r&d 1.jpg" alt=""/>
+							<img src="images\services\r&d 1.jpg" alt="" style="width: 70%!important;"/>
 						</div>
 					</div>
 				</div>
@@ -87,7 +87,7 @@
 		<div class="auto-container">
 			<div class="row clearfix">
 				<!-- Content Column -->
-				<div class="content-column col-lg-7 col-md-12 col-sm-12">
+				<div class="content-column col-lg-7 col-md-12 col-sm-12" >
 					<div class="inner-column">
 						<!-- Sec Title -->
 						<div class="sec-title">
@@ -123,7 +123,7 @@
 				</div>
 
 				<!-- Image Column -->
-				<div class="image-column col-lg-5 col-md-12 col-sm-12">
+				<div class="image-column col-lg-5 col-md-12 col-sm-12" style="display: grid; align-items: center;">
 					<div class="inner-column wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
 							<img src="images\services\r&d 2.jpg" alt="" />
@@ -143,7 +143,7 @@
 				<div class="image-column col-lg-5 col-md-12 col-sm-12">
 					<div class="inner-column wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
-							<img src="images\services\r&d 3.jpg" alt="">
+							<img src="images\services\r&d 3.jpg" alt="" style="width: 70%!important;">
 						</div>
 					</div>
 				</div>
