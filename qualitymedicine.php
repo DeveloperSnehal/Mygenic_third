@@ -39,7 +39,7 @@
 				<div class="image-column col-lg-5 col-md-12 col-sm-12">
 					<div class="inner-column wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
-							<img src="images\services\service5.png" alt="" style="border-radius: 50%;"/>
+							<img src="images\services\service5.png" alt="" style="width: 80%!important;"/>
 						</div>
 					</div>
 				</div>
@@ -130,7 +130,7 @@
 				<div class="image-column col-lg-5 col-md-12 col-sm-12">
 					<div class="inner-column wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
-							<img src="images\services\services4.png" alt="" />
+							<img src="images\services\services4.png" alt="" style="width: 80%!important;"/>
 						</div>
 					</div>
 				</div>
@@ -147,7 +147,7 @@
 				<div class="image-column col-lg-5 col-md-12 col-sm-12">
 					<div class="inner-column wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
-							<img src="images\services\service6.png" alt="" style="border-radius: 50%;"/>
+							<img src="images\services\service6.png" alt="" style="width: 80%!important;"/>
 						</div>
 					</div>
 				</div>
