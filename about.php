@@ -52,7 +52,7 @@
                 <div class="image-column col-lg-5 col-md-12 col-sm-12">
                     <div class="inner-column wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <div class="image">
-                            <img src="images/resource/image-3.jpg" alt="" />
+                            <img src="images\how we do\manufacturing.png" alt="" />
                         </div>
                     </div>
                 </div>
@@ -72,7 +72,7 @@
 				<div class="news-block-two col-lg-6 col-md-12 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="blog-detail.html"><img src="images/resource/news-4.jpg" alt="" /></a>
+							<a href="blog-detail.html"><img src="images\New folder\mission_training.jpg" alt="" /></a>
 						</div>
 						<div class="lower-content">
 							<div class="content">
@@ -88,7 +88,7 @@
 				<div class="news-block-two col-lg-6 col-md-12 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="blog-detail.html"><img src="images/resource/news-5.jpg" alt="" /></a>
+							<a href="blog-detail.html"><img src="images\New folder\csm-close-up-hands-of-businessma.jpg" alt="" /></a>
 						</div>
 						<div class="lower-content">
 							<div class="content">
