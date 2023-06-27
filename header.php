@@ -4,7 +4,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Medi-tech - HTML Template | Home Page 01</title>
+	<title>MyGenic Healthcare</title>
 	<!-- Stylesheets -->
 	<link href="css/bootstrap.css" rel="stylesheet">
 	<link href="css/style.css" rel="stylesheet">
