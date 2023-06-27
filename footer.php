@@ -21,9 +21,9 @@
 
                                 <ul class="social-icons">
                                     <li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
-                                    <li><a href="#"><span class="fab fa-google"></span></a></li>
+                                    <li><a href="#"><span class="fab fa-whatsapp"></span></a></li>
                                     <li><a href="#"><span class="fab fa-twitter"></span></a></li>
-                                    <li><a href="#"><span class="fab fa-skype"></span></a></li>
+                                    <li><a href="#"><span class="fab fa-instagram"></span></a></li>
                                     <li><a href="#"><span class="fab fa-linkedin"></span></a></li>
                                 </ul>
                             </div>
@@ -75,7 +75,7 @@
                                 <ul class="contact-list">
                                     <li><span class="icon flaticon-placeholder"></span>Office No- 2 Plot No- 98, Sector 35 Dolphin Platinum Kamothe, Navi Mumbai, Maharashtra, India</li>
                                     <li><span class="icon flaticon-call"></span><br>
-                                        <a href="tel:+898-68679-575-09">+898 68679 575 09</a>
+                                        <a href="tel:+898-68679-575-09">+91 9867592446</a>
                                     </li>
                                     <li><span class="icon flaticon-message"></span>Do you have a Question?
                                     <a href="mailto:info@gmail.com" style="font-size: 15px;">info@mygenichealthcare.com</a></li>

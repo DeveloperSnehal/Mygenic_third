@@ -102,7 +102,7 @@
 							<div class="outer-box clearfix">
 								<!-- Button Box -->
 								<div class="btn-box">
-									<a href="contact.php" class="theme-btn btn-style-one"><span class="txt">Request for a pickup</span></a>
+									<a href="contact.php" class="theme-btn btn-style-one"><span class="txt">Request for a Enquiry</span></a>
 								</div>
 							</div>
 						</div>

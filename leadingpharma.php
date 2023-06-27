@@ -131,7 +131,7 @@
 				<div class="image-column col-lg-5 col-md-12 col-sm-12">
 					<div class="inner-column wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
-							<img src="images\services\service8.png" alt="" />
+							<img src="images\services\service8.png" alt=""  style="width: 80%;"/>
 						</div>
 					</div>
 				</div>
