@@ -29,7 +29,7 @@
 <body>
 	<div class="page-wrapper">
 		<!-- Preloader -->
-		<div class="preloader"></div>
+		 <div class=" preloader"></div>
 		<header class="main-header">
 			<!--Header Top-->
 			<div class="header-top">
