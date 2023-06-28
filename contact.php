@@ -7,7 +7,7 @@
             <h1>Contact For Mygenic</h1>
 			<div class="text">What We Actually Do?</div>
 			<ul class="bread-crumb clearfix">
-				<li><a href="index.html"><span class="fas fa-home"></span> Home </a></li>
+				<li><a href="index.php"><span class="fas fa-home"></span> Home </a></li>
 				<li>Contact us</li>
 			</ul>
         </div>

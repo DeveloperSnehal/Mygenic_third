@@ -12,9 +12,9 @@
 
         <ul class="bread-crumb clearfix">
 
-            <li><a href="index.html"><span class="fas fa-home"></span> Home </a></li>
+            <li><a href="index.php"><span class="fas fa-home"></span> Home </a></li>
 
-            <li>Departments</li>
+            <li>How We Do?</li>
 
         </ul>
 

@@ -14,7 +14,7 @@
 
             <li><a href="index.php"><span class="fas fa-home"></span> Home </a></li>
 
-            <li>Departments</li>
+            <li>Research And Development</li>
 
         </ul>
 
