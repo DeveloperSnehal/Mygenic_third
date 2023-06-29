@@ -14,10 +14,7 @@
                                 <div class="logo">
                                     <a href="index.php"><img src="images/mygenic-logo-tm.png" alt="" /></a>
                                 </div>
-                                <div class="text">Meditech is a library of health and medical templates with
-                                    predefined web elements which helps you to build your medical templates best
-                                    site Provide Comprehensive Quality Care About Medical Care Health
-                                    Suspendisse metus turpis.</div>
+                                <div class="text">We are a leading pharmaceutical company dedicated to providing high-quality products and services to businesses in the healthcare industry. </div>
 
                                 <ul class="social-icons">
                                     <li><a href="#"><span class="fab fa-facebook-f"></span></a></li>

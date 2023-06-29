@@ -68,9 +68,9 @@
 
 					<ul class="social-icons">
 						<li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
-						<li><a href="#"><span class="fab fa-google"></span></a></li>
+						<li><a href="#"><span class="fab fa-whatsapp"></span></a></li>
 						<li><a href="#"><span class="fab fa-twitter"></span></a></li>
-						<li><a href="#"><span class="fab fa-skype"></span></a></li>
+						<li><a href="#"><span class="fab fa-instagram"></span></a></li>
 						<li><a href="#"><span class="fab fa-linkedin"></span></a></li>
 					</ul>
 
