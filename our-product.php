@@ -30,325 +30,46 @@
 
             <div class="content-side col-lg-12 col-md-12 col-sm-12">
                 <div class="row clearfix">
-                    <!--Shop Item-->
-                    <div class="product-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/products/1.jpg" alt="" />
-                                <ul class="options clearfix">
-                                    <li><a href="#">View Products</a></li>
-                                    <li><a href="#"><span class="icon flaticon-eye"></span></a>
-                                    </li>
-                                </ul>
-                            </div>
+                    <?php
+                        require ('connection/connect.php');
 
-                            <div class="lower-box">
-                                <div class="content">
-                                    <h3><a href="#">ANTI CANCER CAPSULES</a></h3>
+                        $insert_query=" SELECT * FROM `categories`";
+                        $result=mysqli_query($con,$insert_query);
+                        $check_crud = mysqli_num_rows($result) > 0;
+
+                        if($check_crud)
+                        {
+                            while($row = mysqli_fetch_array($result))
+                            {
+                                ?>
+                        <!--Shop Item-->
+                        <div class="product-block col-lg-4 col-md-6 col-sm-12">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <?php echo '<img class="card-img-top img-fluid" src="./admin/category_images/'.$row['category_image'].'" width="100px"; height="100px"; alt=" ">' ?>
+                                    <ul class="options clearfix">
+                                        <li><a href="category.php?category_id=<?php echo $row['category_id']; ?>">View Products</a></li>
+                                        <li><a href="category.php?category_id=<?php echo $row['category_id']; ?>"><span class="icon flaticon-eye"></span></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="lower-box">
+                                    <div class="content">
+                                        <h3><a href="#"><?php echo $row['category_name']; ?></a></h3>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    <?php
 
-                    <!--Shop Item-->
-                    <div class="product-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/products/1.jpg" alt="" />
-                                <ul class="options clearfix">
-                                    <li><a href="#">View Products</a></li>
-                                    <li><a href="#"><span class="icon flaticon-eye"></span></a>
-                                    </li>
-                                </ul>
-                            </div>
+                        }
+                    }
+                    else
+                    {
 
-                            <div class="lower-box">
-                                <div class="content">
-                                    <h3><a href="#">ANTI CANCER INJECTION</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    }
 
-                    <!--Shop Item-->
-                    <div class="product-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/products/1.jpg" alt="" />
-                                <ul class="options clearfix">
-                                    <li><a href="#">View Products</a></li>
-                                    <li><a href="#"><span class="icon flaticon-eye"></span></a>
-                                    </li>
-                                </ul>
-                            </div>
-
-                            <div class="lower-box">
-                                <div class="content">
-                                    <h3><a href="#">ANTI CANCER<br> TABLETS</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Shop Item-->
-                    <div class="product-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/products/1.jpg" alt="" />
-                                <ul class="options clearfix">
-                                    <li><a href="#">View Products</a></li>
-                                    <li><a href="#"><span class="icon flaticon-eye"></span></a>
-                                    </li>
-                                </ul>
-                            </div>
-
-                            <div class="lower-box">
-                                <div class="content">
-                                    <h3><a href="#">ANTI FUNGALS MEDICINES</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Shop Item-->
-                    <div class="product-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/products/1.jpg" alt="" />
-                                <ul class="options clearfix">
-                                    <li><a href="#">View Products</a></li>
-                                    <li><a href="#"><span class="icon flaticon-eye"></span></a>
-                                    </li>
-                                </ul>
-                            </div>
-
-                            <div class="lower-box">
-                                <div class="content">
-                                    <h3><a href="#">ANTI HIV<br> MEDICINES</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Shop Item-->
-                    <div class="product-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/products/1.jpg" alt="" />
-                                <ul class="options clearfix">
-                                    <li><a href="#">View Products</a></li>
-                                    <li><a href="#"><span class="icon flaticon-eye"></span></a>
-                                    </li>
-                                </ul>
-                            </div>
-
-                            <div class="lower-box">
-                                <div class="content">
-                                    <h3><a href="#">ARTHRITIS<br> MEDICINES</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Shop Item-->
-                    <div class="product-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/products/1.jpg" alt="" />
-                                <ul class="options clearfix">
-                                    <li><a href="#">View Products</a></li>
-                                    <li><a href="#"><span class="icon flaticon-eye"></span></a>
-                                    </li>
-                                </ul>
-                            </div>
-
-                            <div class="lower-box">
-                                <div class="content">
-                                    <h3><a href="#">CONTRAST<br> MEDIA</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Shop Item-->
-                    <div class="product-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/products/1.jpg" alt="" />
-                                <ul class="options clearfix">
-                                    <li><a href="#">View Products</a></li>
-                                    <li><a href="#"><span class="icon flaticon-eye"></span></a>
-                                    </li>
-                                </ul>
-                            </div>
-
-                            <div class="lower-box">
-                                <div class="content">
-                                    <h3><a href="#">HEPATITIS C MEDICINES</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Shop Item-->
-                    <div class="product-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/products/1.jpg" alt="" />
-                                <ul class="options clearfix">
-                                    <li><a href="#">View Products</a></li>
-                                    <li><a href="#"><span class="icon flaticon-eye"></span></a>
-                                    </li>
-                                </ul>
-                            </div>
-
-                            <div class="lower-box">
-                                <div class="content">
-                                    <h3><a href="#">HORMONES MEDICINES</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Shop Item-->
-                    <div class="product-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/products/1.jpg" alt="" />
-                                <ul class="options clearfix">
-                                    <li><a href="shop-single.html">View Products</a></li>
-                                    <li><a href="shop-single.html"><span class="icon flaticon-eye"></span></a>
-                                    </li>
-                                </ul>
-                            </div>
-
-                            <div class="lower-box">
-                                <div class="content">
-                                    <h3><a href="#">LIFE SAVING MEDICINES</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Shop Item-->
-                    <div class="product-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/products/1.jpg" alt="" />
-                                <ul class="options clearfix">
-                                    <li><a href="#">View Products</a></li>
-                                    <li><a href="#"><span class="icon flaticon-eye"></span></a>
-                                    </li>
-                                </ul>
-                            </div>
-
-                            <div class="lower-box">
-                                <div class="content">
-                                    <h3><a href="#">NEPHROLOGY & KIDNEY MEDICINES</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Shop Item-->
-                    <div class="product-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/products/1.jpg" alt="" />
-                                <ul class="options clearfix">
-                                    <li><a href="#">View Products</a></li>
-                                    <li><a href="#"><span class="icon flaticon-eye"></span></a>
-                                    </li>
-                                </ul>
-                            </div>
-
-                            <div class="lower-box">
-                                <div class="content">
-                                    <h3><a href="#">NEW<br> PRODUCTS</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Shop Item-->
-                    <div class="product-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/products/1.jpg" alt="" />
-                                <ul class="options clearfix">
-                                    <li><a href="#">Quick View</a></li>
-                                    <li><a href="#"><span class="icon flaticon-eye"></span></a>
-                                    </li>
-                                </ul>
-                            </div>
-
-                            <div class="lower-box">
-                                <div class="content">
-                                    <h3><a href="#">PHARMACEUTICAL MEDICINES</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Shop Item-->
-                    <div class="product-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/products/1.jpg" alt="" />
-                                <ul class="options clearfix">
-                                    <li><a href="#">View Products</a></li>
-                                    <li><a href="#"><span class="icon flaticon-eye"></span></a>
-                                    </li>
-                                </ul>
-                            </div>
-
-                            <div class="lower-box">
-                                <div class="content">
-                                    <h3><a href="#">PSORIASIS<br> MEDICINE</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Shop Item-->
-                    <div class="product-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/products/1.jpg" alt="" />
-                                <ul class="options clearfix">
-                                    <li><a href="#">View Products</a></li>
-                                    <li><a href="#"><span class="icon flaticon-eye"></span></a>
-                                    </li>
-                                </ul>
-                            </div>
-
-                            <div class="lower-box">
-                                <div class="content">
-                                    <h3><a href="#">SKIN &<br> COSMETOLOGY</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Shop Item-->
-                    <div class="product-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/products/1.jpg" alt="" />
-                                <ul class="options clearfix">
-                                    <li><a href="#">View Products</a></li>
-                                    <li><a href="#"><span class="icon flaticon-eye"></span></a>
-                                    </li>
-                                </ul>
-                            </div>
-
-                            <div class="lower-box">
-                                <div class="content">
-                                    <h3><a href="#">VACCINES</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    ?>
                 </div>
             </div>
         </div>

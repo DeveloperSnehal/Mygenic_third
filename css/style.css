@@ -9778,7 +9778,8 @@ img{
 
 .product-block .inner-box{
 	position:relative;
-	border:1px solid #f2f2f2;
+	border: 2px solid #148594;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 	transition:all 500ms ease;
 	-webkit-transition:all 500ms ease;
 	-ms-transition:all 500ms ease;
@@ -9846,7 +9847,7 @@ img{
 	padding-top:25px;
 	text-align:center;
 	padding-bottom:10px;
-	border-top:1px solid #f2f2f2;
+	border-top:3px solid #f2f2f2;
 }
 
 .product-block .inner-box .lower-box .content h3{
@@ -10156,6 +10157,7 @@ img{
 	display:block;
 	width:100%;
 	background-color:#f7f7f7;
+	box-shadow: rgba(20, 133, 148, 0.4) 0px 0px 0px 2px, rgba(20, 133, 148, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
 }
 .product-details .basic-details .details-header{
 	position:relative;
