@@ -13659,3 +13659,10 @@ left:auto;
 		width:200px;
     }
   }
+
+
+  @media screen and (max-width: 480px) {
+	.health-section .content-column .border-line:before {
+		width: 250px;
+	}
+  }

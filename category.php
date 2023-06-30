@@ -54,7 +54,7 @@
                                 <div class="image">
                                   <?php echo '<img class="card-img-top img-fluid" src="./admin/product_images/'.$row['Product_Image'].'" style="height: 200px; width: 200px;" alt=" ">' ?>
                                     <ul class="options clearfix">
-                                        <li><a href="sub-category.php?Product_Chemical=<?php echo $row['Product_Chemical']; ?>">View Products</a></li>
+                                        <li><a href="sub-category.php?Product_Chemical=<?php echo $row['Product_Chemical']; ?>">View Sub-category</a></li>
                                         <li><a href="sub-category.php?Product_Chemical=<?php echo $row['Product_Chemical']; ?>"><span class="icon flaticon-eye"></span></a>
                                         </li>
                                     </ul>

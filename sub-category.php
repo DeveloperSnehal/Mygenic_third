@@ -55,7 +55,7 @@
                                 <div class="image">
                                    <?php echo '<img class="card-img-top img-fluid" src="./admin/product_images/'.$row['Product_Image'].'" style="height: 200px; width: 200px;"  alt=" ">' ?>
                                     <ul class="options clearfix">
-                                        <li><a href="product-details.php?Product_Name=<?php echo $row['Product_Name']; ?>">View Products</a></li>
+                                        <li><a href="product-details.php?Product_Name=<?php echo $row['Product_Name']; ?>">View Details</a></li>
                                         <li><a href="product-details.php?Product_Name=<?php echo $row['Product_Name']; ?>"><span class="icon flaticon-eye"></span></a>
                                         </li>
                                     </ul>

@@ -48,7 +48,7 @@
                                 <div class="image">
                                     <?php echo '<img class="card-img-top img-fluid" src="./admin/category_images/'.$row['category_image'].'" width="100px"; height="100px"; alt=" ">' ?>
                                     <ul class="options clearfix">
-                                        <li><a href="category.php?category_id=<?php echo $row['category_id']; ?>">View Products</a></li>
+                                        <li><a href="category.php?category_id=<?php echo $row['category_id']; ?>">View category</a></li>
                                         <li><a href="category.php?category_id=<?php echo $row['category_id']; ?>"><span class="icon flaticon-eye"></span></a>
                                         </li>
                                     </ul>
