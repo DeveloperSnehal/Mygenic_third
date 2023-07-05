@@ -5,13 +5,12 @@
 			<div class="banner-carousel">
 				<!-- Swiper -->
 				<div class="swiper-wrapper">
-					<div class="swiper-slide slide" style="background-image:url(images/main-slider/1.jpg)">
+					<div class="swiper-slide slide" style="background-image:url(images/main-slider/banner1.jpg)">
 						<div class="auto-container">
 							<div class="content clearfix">
 								<div class="title">Welcome our MyGenic Healthcare Private Limited</div>
-								<h2>Take Care of Your Health</h2>
-								<div class="text">We're always available for our Patients with emergent problems. You
-									can easily reach us 24/7 via the phone number below:</div>
+								<h2>Trusted Medication Supplier</h2>
+								<div class="text">Empowering Health through Innovation and Quality Pharmaceutical Manufacturing.</div>
 								<div class="btn-box clearfix">
 									<a href="contact.php" class="theme-btn btn-style-two"><span class="txt">Our
 											Services</span></a>
@@ -21,13 +20,12 @@
 							</div>
 						</div>
 					</div>
-					<div class="swiper-slide slide" style="background-image:url(images/main-slider/1.jpg)">
+					<div class="swiper-slide slide" style="background-image:url(images/main-slider/banner2.jpg)">
 						<div class="auto-container">
 							<div class="content">
 								<div class="title">Welcome our MyGenic Healthcare Private Limited</div>
-								<h2>Take Care of Your Health</h2>
-								<div class="text">We're always available for our Patients with emergent problems. You
-									can easily reach us 24/7 via the phone number below:</div>
+								<h2>Certified Medicine Maker</h2>
+								<div class="text">Driving innovation in pharmaceutical manufacturing for better healthcare outcomes:</div>
 								<div class="btn-box">
 									<a href="contact.php" class="theme-btn btn-style-two"><span class="txt">Our
 											Services</span></a>
@@ -37,12 +35,12 @@
 							</div>
 						</div>
 					</div>
-					<div class="swiper-slide slide" style="background-image:url(images/main-slider/1.jpg)">
+					<div class="swiper-slide slide" style="background-image:url(images/main-slider/banner3.jpg)">
 						<div class="auto-container">
 							<div class="content">
 								<div class="title">Welcome our MyGenic Healthcare Private Limited</div>
-								<h2>Take Care of Your Health</h2>
-								<div class="text">We're always available for our Patients with emergent problems. You can easily reach us 24/7 via the phone number below:</div>
+								<h2>Convenient Drug Provider</h2>
+								<div class="text">Connecting the world with life-saving medicines through pharmaceutical export expertise.</div>
 								<div class="btn-box">
 									<a href="contact.php" class="theme-btn btn-style-two"><span class="txt">Our Services</span></a>
 									<a href="contact.php" class="theme-btn phone-btn"><span class="icon flaticon-call"></span>+91 9867592446</a>

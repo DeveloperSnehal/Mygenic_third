@@ -2,7 +2,7 @@
 
 <!--Page Title-->
 
-<section class="page-title" style="background-image:url(images/background/7.jpg);">
+<section class="page-title" style="background-image:url(images/background/Quality.jpg);">
 
     <div class="auto-container">
 

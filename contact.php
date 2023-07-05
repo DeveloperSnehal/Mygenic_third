@@ -2,7 +2,7 @@
 
 
 	<!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/7.jpg);">
+    <section class="page-title" style="background-image:url(images/background/contact-us.jpg);">
         <div class="auto-container">
             <h1>Contact For Mygenic</h1>
 			<div class="text">What We Actually Do?</div>
