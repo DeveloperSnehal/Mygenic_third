@@ -38,7 +38,7 @@
 				<!-- Image Column -->
 				<div class="image-column col-lg-5 col-md-12 col-sm-12">
 					<div class="inner-column wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<div class="image">
+						<div class="image" style="width: 82%;">
 							<img src="images\services\service7.png" alt=""/>
 						</div>
 					</div>
@@ -65,12 +65,11 @@
 
 												<div class="column col-lg-12 col-md-9 col-sm-12">
 													<div class="text">
-														<p>Becoming a top leading pharmaceutical export company requires a combination of factors, including a strong focus on quality, compliance with regulatory standards, a robust supply chain, and effective marketing and sales strategies. Mygenic Healthcare Private Limited, as a top leading pharmaceutical export company, has achieved this status through a variety of measures.</p>
-														<p>One of the primary reasons for Mygenic Healthcare Private Limited's success as a top leading pharmaceutical export company is our commitment to quality. We follow strict regulatory guidelines set by organizations such as the FDA (Food and Drug Administration) and the WHO (World Health Organization) to ensure that our products meet the highest standards of quality.</p>
-                                                        <p>Another key factor that has contributed to our success is our robust supply chain. Mygenic Healthcare Private Limited has developed strong partnerships with manufacturers, suppliers, and logistics providers to ensure a smooth and timely delivery of products. We have also established a global distribution network that allows us to reach customers in different regions and markets.</p>
-                                                        <p>Effective marketing and sales strategies have also played a crucial role in Mygenic Healthcare Private Limited's success as a top leading pharmaceutical export company. We have invested in building strong relationships with customers, including healthcare providers, distributors, and wholesalers, to understand their needs and provide them with the best solutions. We have also adopted innovative marketing strategies, such as digital marketing and social media campaigns, to reach new customers and expand reach.</p>
-                                                        <p>Finally, Mygenic Healthcare Private Limited's ability to adapt to changing market dynamics has also contributed to our success. We have kept up with the latest industry trends and developments and have continuously evolved product offerings to meet the changing needs of our customers.</p>
-                                                        <p>In summary, Mygenic Healthcare Private Limited has become a top leading pharmaceutical export company through commitment to quality, robust supply chain, effective marketing and sales strategies, and ability to adapt to changing market dynamics. These factors have allowed us to establish ourselves as a trusted and reliable partner for our customers, and position ourselves as a top player in the pharmaceutical export industry.</p>
+														<p>To become a leading pharmaceutical export company, Mygenic Healthcare Pvt. Ltd. has focused on important factors. One crucial factor is our dedication to quality. We ensure our products meet high standards by following strict guidelines from organizations like the FDA and WHO.</p>
+														<p>A strong supply chain has also contributed to our success. We have strong relationships with manufacturers, suppliers, and logistics providers. This helps us deliver products efficiently and on time. We have also built a global distribution network, reaching customers in different regions and markets.</p>
+                                                        <p>Effective marketing and sales strategies have played a significant role too. We have strong connections with healthcare providers, distributors, and wholesalers. By understanding their needs, we provide the best solutions. We also use digital marketing and social media campaigns to reach new customers and expand our reach.</p>
+                                                        <p>Adapting to market changes has been crucial for our success. We stay updated on industry trends and developments. This allows us to evolve our products and meet the changing needs of our customers.</p>
+                                                        <p>In summary, Mygenic Healthcare Pvt. Ltd. has become a leading pharmaceutical export company by focusing on quality, maintaining a strong supply chain, using effective marketing and sales strategies, and adapting to market dynamics. These factors have made us a trusted partner and positioned us as a top player in the pharmaceutical export industry.</p>
 													</div>
 												</div>
 											</div>
@@ -112,10 +111,10 @@
 
 												<div class="column col-lg-12 col-md-9 col-sm-12">
 													<div class="text">
-														<p>ISO 9001:2015 is an international standard that sets out the requirements for a quality management system (QMS). It provides a framework for companies to manage their business processes and ensure that their products and services meet the needs of their customers and other stakeholders. Mygenic Healthcare Private Limited is proud to be ISO 9001:2015 certified, which means that WE have implemented a quality management system that meets the requirements of this standard.</p>
-                                                        <p>To achieve ISO 9001:2015 certification, Mygenic Healthcare Private Limited underwent a rigorous auditing process to demonstrate that our QMS meets the requirements of the standard. This involved a comprehensive review of our processes, policies, and procedures to ensure that we are effective and efficient in meeting customer needs.</p>
-                                                        <p>Being ISO 9001:2015 certified demonstrates Mygenic Healthcare Private Limited's commitment to quality and continuous improvement. It also provides assurance to our customers that we have implemented a robust quality management system and dedicated to providing high-quality products and services.</p>
-                                                        <p>ISO 9001:2015 certification is recognized globally and is often a requirement for companies to do business with other organizations. By obtaining this certification, Mygenic Healthcare Private Limited has positioned as a trusted and reliable partner for our customers, suppliers, and other stakeholders in the pharmaceutical industry.</p>
+														<p>ISO 9001:2015 is an international standard that helps companies manage their business processes to ensure their products and services meet customer needs. Mygenic Healthcare Pvt. Ltd. is proud to be ISO 9001:2015 certified, which means we have implemented a quality management system that meets this standard.</p>
+                                                        <p>To become ISO 9001:2015 certified, we went through a thorough auditing process. This involved reviewing our processes, policies, and procedures to make sure we are effective and efficient in meeting customer needs.</p>
+                                                        <p>Being ISO 9001:2015 certified shows our commitment to quality and continuous improvement. It gives our customers confidence that we have a strong quality management system and are dedicated to providing high-quality products and services.</p>
+                                                        <p>ISO 9001:2015 certification is recognized worldwide and often required for business partnerships. By achieving this certification, Mygenic Healthcare Pvt. Ltd. has established itself as a trusted and reliable partner for customers, suppliers, and others in the pharmaceutical industry.</p>
 													</div>
 												</div>
 											</div>
@@ -130,7 +129,7 @@
 				<!-- Image Column -->
 				<div class="image-column col-lg-5 col-md-12 col-sm-12">
 					<div class="inner-column wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<div class="image">
+						<div class="image" style="width: 82%;">
 							<img src="images\services\service8.png" alt=""  style="width: 80%;"/>
 						</div>
 					</div>
@@ -174,13 +173,13 @@
 
 												<div class="column col-lg-12 col-md-9 col-sm-12">
 													<div class="text">
-														<p>There are several factors that have helped Mygenic Healthcare Private Limited become a top leading pharmaceutical exporting company:</p>
-														<p><b>Quality focus:</b> We have a strong focus on quality, which is evident in our adherence to regulatory standards such as WHO and GMP. We ensure that our products meet the highest standards of quality and safety, which has helped us establish trust and credibility with our customers.</p>
-                                                        <p><b>Robust supply chain:</b> Mygenic Healthcare Private Limited has built a robust supply chain, which includes partnerships with manufacturers, suppliers, and logistics providers. We have a global distribution network, which enables us to reach customers in different regions and markets, thereby expanding reach and visibility.</p>
-                                                        <p><b>Customer-centric approach:</b> Mygenic Healthcare Private Limited has adopted a customer-centric approach, where we prioritize the needs and requirements of our customers. We have established strong relationships with healthcare providers, distributors, and wholesalers, which has helped us understand our customers better and provide us with tailored solutions.</p>
-                                                        <p><b>Innovation:</b> We have been innovative in our approach, which has helped us stay ahead of the competition. We have adopted modern marketing techniques, such as digital marketing and social media campaigns, to reach new customers and expand reach.</p>
-                                                        <p><b>Adaptability:</b> Mygenic Healthcare Private Limited has shown adaptability in operations, which has helped us keep up with changing market dynamics. We have evolved product offerings to meet the changing needs of customers and have been quick to adopt new technologies and practices.</p>
-                                                        <p>In summary, Mygenic Healthcare Private Limited's focus on quality, robust supply chain, customer-centric approach, innovation, and adaptability have helped us become a top leading pharmaceutical exporting company. These factors have enabled us to establish ourselves as a trusted and reliable partner for our customers, and position ourselves as a top player in the pharmaceutical export industry.</p>
+														<p>There are several reasons why Mygenic Healthcare Pvt. Ltd. has become a top pharmaceutical exporting company:</p>
+														<p><b>Quality focus:</b> We prioritize quality and meet regulatory standards like WHO and GMP. This ensures our products are safe and reliable, earning the trust of our customers.</p>
+                                                        <p><b>Robust supply chain:</b> We have built a strong supply chain through partnerships with manufacturers, suppliers, and logistics providers. Our global distribution network allows us to reach customers worldwide, expanding our presence.</p>
+                                                        <p><b>Customer-centric approach:</b> We prioritize our customers by understanding their needs and preferences. Building strong relationships with healthcare providers, distributors, and wholesalers helps us tailor our solutions to their requirements.</p>
+                                                        <p><b>Innovation:</b> We embrace innovation to stay ahead of the competition. By using modern marketing techniques like digital marketing and social media campaigns, we connect with new customers and expand our reach.</p>
+                                                        <p><b>Adaptability:</b> Mygenic Healthcare Pvt. Ltd. is adaptable to changing market conditions. We adjust our product offerings to meet evolving customer needs and embrace new technologies and practices.</p>
+                                                        <p>In summary, our focus on quality, strong supply chain, customer-centric approach, innovation, and adaptability have contributed to our success as a leading pharmaceutical exporting company. These factors have established us as a trusted partner and positioned us at the forefront of the pharmaceutical export industry.</p>
 													</div>
 												</div>
 											</div>

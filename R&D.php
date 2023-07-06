@@ -65,8 +65,8 @@
 
 												<div class="column col-lg-12 col-md-9 col-sm-12">
 													<div class="text">
-														<p>Enriching Lives, that’s not only our prime priority, it is our only priority! Making a difference to our patients’ lives is our unwavering commitment. To ensure this, our core strategy is to find the best collaborative solution for the development of each product.</p>
-														<p>We, at MyGenic, work persistently towards the production of apex quality generic products, branded generics, specialty products, active pharmaceutical ingredients and nutraceuticals, which are marketed in India as well as globally.</p>
+														<p>At MyGenic, our only focus is on improving people's lives. We are committed to making a positive impact on our patients. To achieve this, our main strategy is to develop collaborative solutions for each product.</p>
+														<p>We work tirelessly at MyGenic to create top-quality generic products, branded generics, specialty products, active pharmaceutical ingredients, and nutraceuticals. These products are not only available in India but also sold worldwide.</p>
 													</div>
 												</div>
 											</div>
@@ -108,9 +108,10 @@
 
 												<div class="column col-lg-12 col-md-9 col-sm-12">
 													<div class="text">
-														<p>Our team of researchers include over 500+ competent individuals, who are stationed at our Six different R&D centres located in India and USA. Together, they power our enviable expertise in developing generics, transdermal drug delivery systems, oral films, difficult-to-produce technology intensive products and Novel Drug Delivery Systems (NDDS). We have dedicated teams for process development and packaging development.</p>
-                                                        <p>Our research strategy and implementation is strongly supported by our proficient Intellectual Property (IP) team. Our IP team commands a strong expertise and hold rich experience in chemistry, analytical techniques, dosage forms and global patent law. Over the last decade, we have been consistently challenging patents on several high-value products in the US with First-to-File exclusivity under Hatch-Waxman Act. This helps us in furnishing high-quality generic versions of such products at reasonable costs. Our IP team continuously strives to capture new developments across the company and protects them as an intellectual property.</p>
-                                                        <p>Our R&D centres have been audited and approved by international regulatory authorities, including the US FDA, European, Australian and various other authorities.</p>
+														<p>We have a team of 500+ skilled researchers working at our six different research and development (R&D) centers in India and the USA. They contribute to our vast knowledge in developing different types of medicines, including generics, transdermal drug delivery systems, oral films, complex technology-based products, and Novel Drug Delivery Systems (NDDS). We have separate teams dedicated to process development and packaging development.</p>
+                                                        <p>Our research strategy is well-supported by our capable Intellectual Property (IP) team. This team has strong expertise in chemistry, analytical techniques, dosage forms, and global patent law.</p>
+                                                        <p>Over the past 10 years, we have consistently challenged patents on valuable products in the US, allowing us to provide high-quality generic versions of those products at affordable prices. Our IP team remains vigilant in monitoring and protecting new developments within the company as intellectual property.</p>
+														<p>Our R&D centers have undergone audits and received approval from international regulatory authorities, including the US FDA, European authorities, Australian authorities, and others.</p>
 													</div>
 												</div>
 											</div>
@@ -169,7 +170,7 @@
 
 												<div class="column col-lg-12 col-md-9 col-sm-12">
 													<div class="text">
-														<p>Our R&D Centre has developed products and filed over 150 ANDAs with USA FDA, close to 70 products with TGA Australia, around 40 products for EU and many dossiers in other countries including Brazil, South Africa, Canada, Chile and rest of the world. Our research capabilities has paid dividends not only in terms of business but with an enviable reputation for quality and capability.</p>
+														<p>Our Research and Development (R&D) Center has been very successful. We have created and submitted more than 150 Abbreviated New Drug Applications (ANDAs) to the US FDA (Food and Drug Administration). We have also developed nearly 70 products for TGA Australia (Therapeutic Goods Administration), around 40 products for the European Union (EU), and many dossiers for countries like Brazil, South Africa, Canada, Chile, and more around the world. Our strong research capabilities have not only brought us business success but also earned us a reputation for delivering high-quality products and showcasing our abilities.</p>
 													</div>
 												</div>
 											</div>

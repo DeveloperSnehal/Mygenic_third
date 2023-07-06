@@ -65,9 +65,8 @@
 
 												<div class="column col-lg-12 col-md-9 col-sm-12">
 													<div class="text">
-														<p>Raw materials play a crucial role in the pharmaceutical industry as they are the building blocks for the production of drugs and medications. These materials, also known as active pharmaceutical ingredients (APIs), are the substances responsible for the therapeutic effects of the drugs. </p>
-														<p>APIs are the primary raw materials in drug formulation. They are chemically active substances that have a direct impact on the treatment of a specific disease or condition. Excipients are non-active substances used in drug formulation alongside APIs. Solvents are used during the manufacturing process to dissolve APIs and excipients, facilitating their combination and formulation into a final dosage form.</p>
-                                                        <p>In addition to the above, the pharmaceutical industry may use other raw materials such as antimicrobial agents, antioxidants, chelating agents, and pH modifiers. These materials assist in preserving the stability of the drug product, preventing microbial growth, and maintaining its quality over its shelf life.</p>
+														<p>In the pharmaceutical industry, raw materials play a crucial role. They are like the basic building blocks used to make medicines and drugs. These materials are called active pharmaceutical ingredients (APIs) and they are responsible for the therapeutic effects of the drugs. APIs are the main substances used in producing medicines. They are active chemicals that directly affect the treatment of specific diseases or conditions. Alongside APIs, there are other substances called excipients. These excipients are non-active materials used in the formulation of drugs.</p>
+														<p>During the manufacturing process, solvents are used to dissolve APIs and excipients. This helps mix them together and create the final form of the medication. Apart from APIs and excipients, the pharmaceutical industry may also use other raw materials. These can include antimicrobial agents, antioxidants, chelating agents, and pH modifiers. These materials help maintain the stability of the drug, prevent microbial growth, and preserve its quality throughout its shelf life.</p>
 													</div>
 												</div>
 											</div>
@@ -109,10 +108,10 @@
 
 												<div class="column col-lg-12 col-md-9 col-sm-12">
 													<div class="text">
-														<p>Manufacturing pharmaceutical products such as tablets (tabs), syrups, and injections involves distinct processes and considerations.</p>
-                                                        <p><b>Tablet:</b> Tablets are solid dosage forms that contain one or more active pharmaceutical ingredients (APIs) along with excipients. The manufacturing process typically involves Blending, Granulation, Compression, Coating, Packaging process.</p>
-                                                        <p><b>Syrup:</b> Syrups are liquid dosage forms containing dissolved or suspended APIs and flavoring agents. The manufacturing process typically involves Preparation of Solution/Suspension, Mixing and Homogenization, Filtration, Flavoring and Sweetening, Packaging process</p>
-                                                        <p><b>Injection:</b> Injections are sterile formulations intended for parenteral administration. The manufacturing process for injections involves strict aseptic techniques and may vary depending on the type of injection (e.g., intravenous, intramuscular, subcutaneous). Some general steps involved in injection manufacturing are Sterilization, Preparation of API Solution, Filtration and Clarification, Filling and Sealing, Quality Control, Packaging.</p>
+														<p>Making pharmaceutical products like tablets, syrups, and injections involves specific processes.</p>
+                                                        <p><b>Tablet:</b> Tablets are solid medicines made of active ingredients (APIs) and other substances called excipients. To make tablets, the ingredients are mixed, granulated into small particles, compressed into tablet form, coated, and packaged.</p>
+                                                        <p><b>Syrup:</b> Syrups are liquid medicines with dissolved or suspended APIs and flavoring agents. To make syrups, a solution or suspension is prepared, ingredients are mixed and homogenized, the mixture is filtered, flavoring and sweeteners are added, and the syrup is packaged.</p>
+                                                        <p><b>Injection:</b> Injections are sterile formulations meant for injection. Making injections requires strict cleanliness. The process can vary depending on the type, like intravenous, intramuscular, or subcutaneous injections. General steps include sterilization, preparing the API solution, filtration, filling, sealing, quality control, and packaging.</p>
 													</div>
 												</div>
 											</div>
@@ -171,9 +170,9 @@
 
 												<div class="column col-lg-12 col-md-9 col-sm-12">
 													<div class="text">
-														<p>Pharmaceutical products require various types of storage facilities and conditions based on their specific requirements. </p>
-														<p><b>Ambient Storage:</b> Ambient storage refers to storing pharmaceutical products at room temperature, typically between 20-25°C (68-77°F). This is the most common storage condition for many medications that do not require specific temperature controls. However, it's important to protect them from excessive heat, direct sunlight, moisture, and extreme temperature fluctuations.</p>
-                                                        <p><b>Cold Chain Storage:</b> The cold chain refers to the uninterrupted temperature-controlled storage and transportation of temperature-sensitive pharmaceuticals, especially vaccines and biologics. It involves maintaining specific temperature ranges from the point of manufacture to the point of administration, including storage, transportation, and distribution. Cold chain storage typically requires a combination of refrigeration and freezer storage facilities, as well as temperature-monitoring devices and transportation equipment.</p>
+														<p>Pharmaceutical products have different storage requirements depending on their needs.</p>
+														<p><b>Ambient Storage:</b> Many medications can be stored at room temperature, which is typically around 20-25°C (68-77°F). It's important to protect them from extreme heat, direct sunlight, moisture, and drastic temperature changes.</p>
+                                                        <p><b>Cold Chain Storage:</b> Some medicines need specific temperature control and are stored in cold conditions. This is called the "cold chain" and is essential for vaccines and biologics. The cold chain ensures that these products are stored and transported at precise temperatures, from manufacturing to administration. It involves the use of refrigerators, freezers, temperature-monitoring devices, and proper transportation equipment.</p>
 													</div>
 												</div>
 											</div>
@@ -215,9 +214,9 @@
 
 												<div class="column col-lg-12 col-md-9 col-sm-12">
 													<div class="text">
-														<p>In the pharmaceutical industry, transporting drugs and healthcare products requires careful consideration to ensure their integrity, safety, and efficacy.</p>
-                                                        <p><b>Cold Van Transport:</b> Cold van transport, also known as refrigerated van transport or temperature-controlled van transport, equipped with refrigeration or cooling systems. This type of transport is specifically designed to maintain the desired temperature range throughout the journey, ensuring the integrity and stability of temperature-sensitive products.</p>
-                                                        <p><b>Normal Van Transport:</b> Normal van transport are the vehicles without specialized refrigeration or cooling systems. These vans do not provide temperature control and are suitable for products that do not require specific temperature conditions.</p>
+														<p>When transporting drugs and healthcare products, the pharmaceutical industry pays special attention to their safety and effectiveness.</p>
+                                                        <p><b>Cold Van Transport:</b> Cold van transport, also known as refrigerated van transport or temperature-controlled van transport, uses vans with refrigeration or cooling systems. These vans are designed to maintain a specific temperature range during transportation. This is important for preserving the quality and stability of products that are sensitive to temperature.</p>
+                                                        <p><b>Normal Van Transport:</b> Regular van transport uses vehicles without specialized refrigeration or cooling systems. These vans do not provide temperature control and are suitable for products that do not require specific temperature conditions.</p>
 													</div>
 												</div>
 											</div>
@@ -276,9 +275,9 @@
 
 												<div class="column col-lg-12 col-md-9 col-sm-12">
 													<div class="text">
-														<p>Export in the pharmaceutical industry refers to the process of selling and distributing pharmaceutical products to foreign markets or countries outside the company's home country. Pharmaceutical exports play a significant role in expanding the reach of pharmaceutical companies, accessing new markets, and meeting the healthcare needs of diverse populations.</p>
-														<p><b>Cold Chain Export:</b> Cold chain export refers to the transportation of temperature-sensitive products, including pharmaceuticals, in a controlled and temperature-monitored environment throughout the export process. It involves maintaining the required temperature range from the point of origin to the final destination to ensure the integrity and efficacy of the products.</p>
-                                                        <p><b>Normal Export:</b> Normal export refers to the without specific temperature controls or requirements. It typically involves shipping products that are stable at ambient temperatures and do not require specialized temperature-controlled packaging or transport.</p>
+														<p>Exporting in the pharmaceutical industry involves selling and distributing pharmaceutical products to other countries. It allows pharmaceutical companies to reach new markets and provide healthcare to people worldwide.</p>
+														<p><b>Cold Chain Export:</b> Cold chain export is the transportation of temperature-sensitive products, such as medicines, in a controlled environment. It ensures that the products remain at the correct temperature throughout the entire export process, keeping them safe and effective.</p>
+                                                        <p><b>Regular Export:</b> Regular export refers to shipping products that do not require specific temperature controls. These products are stable at normal temperatures and do not need special packaging or transportation.</p>
 													</div>
 												</div>
 											</div>

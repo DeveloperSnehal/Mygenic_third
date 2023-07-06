@@ -65,14 +65,14 @@
 
 												<div class="column col-lg-12 col-md-9 col-sm-12">
 													<div class="text">
-														<p><b>MyGenic Healthcare Pvt. Ltd.</b> is a leading pharmaceutical contract manufacturer in India. This means that the company manufactures pharmaceutical products on a contract basis for other companies or clien</p>
-														<p>Being a top pharmaceutical contract manufacturer in India, Mygenic Healthcare Private Limited likely has a range of expertise and services related to contract manufacturing. Here are some possible reasons why Mygenic Healthcare Private Limited is considered a top pharmaceutical contract manufacturer in India:</p>
-                                                        <p><b>1. Manufacturing Expertise:</b> Mygenic Healthcare Private Limited may have advanced technologies and manufacturing processes that allow them to produce high-quality pharmaceutical products efficiently and cost-effectively.</p>
-                                                        <p><b>2. Regulatory Compliance:</b> Mygenic Healthcare Private Limited may be knowledgeable about industry regulations and work to ensure that all products manufactured on a contract basis meet the necessary regulatory requirements.</p>
-                                                        <p><b>3. Customized Solutions:</b> Mygenic Healthcare Private Limited may offer customized solutions for their clients, working closely with them to develop and manufacture products that meet their specific needs and requirements.</p>
-                                                        <p><b>4. Quality Control:</b> Mygenic Healthcare Private Limited may have a rigorous quality control system in place to ensure that all products manufactured on a contract basis meet industry standards and are safe and effective for patients.</p>
-                                                        <p><b>5. Customer Service:</b> Mygenic Healthcare Private Limited may provide excellent customer service to their clients, offering support and guidance throughout the contract manufacturing process.</p>
-                                                        <p>Overall, Mygenic Healthcare Private Limited's expertise in contract manufacturing, regulatory compliance, customized solutions, quality control, and customer service may be reasons why they are considered a top pharmaceutical contract manufacturer in India.</p>
+														<p><b>MyGenic Healthcare Pvt. Ltd.</b> is a well-known company in India that specializes in contract manufacturing for pharmaceuticals. This means we produce medicines for other companies or clients.</p>
+														<p>Here's why MyGenic Healthcare Pvt. Ltd. is recognized as a leading contract manufacturer:</p>
+                                                        <p><b>1. Manufacturing Expertise:</b> We have advanced technologies and efficient processes to make high-quality medicines at a reasonable cost.</p>
+                                                        <p><b>2. Regulatory Compliance:</b> We understand and follow all the rules and regulations of the industry to ensure our manufactured products meet the required standards.</p>
+                                                        <p><b>3. Customized Solutions:</b> We work closely with our clients to develop and produce medicines that meet their specific needs and requirements. </p>
+                                                        <p><b>4. Quality Control:</b> We have a strict system in place to check the quality of our manufactured products, ensuring they meet industry standards for safety and effectiveness. </p>
+                                                        <p><b>5. Customer Service:</b> We provide excellent customer support and guidance throughout the manufacturing process to ensure our clients are satisfied.</p>
+                                                        <p>Overall, MyGenic Healthcare Pvt. Ltd.'s expertise in contract manufacturing, regulatory compliance, customized solutions, quality control, and customer service makes us a top choice for pharmaceutical contract manufacturing in India.</p>
 													</div>
 												</div>
 											</div>
@@ -114,10 +114,10 @@
 
 												<div class="column col-lg-12 col-md-9 col-sm-12">
 													<div class="text">
-														<p>We at MyGenic Healthcare Private Limited offer high-quality pharmaceutical products that meet industry standards and regulations. We use advanced technologies and processes to ensure that our products are safe and effective.</p>
-                                                        <p>Mygenic Healthcare Private Limited specializes in exporting pharmaceutical products to a global market. We have a team of experts who are experienced in navigating the complexities of international trade and regulations.</p>
-                                                        <p>Mygenic Healthcare Private Limited is a leading contract manufacturer of pharmaceutical products. We offer customized solutions for our clients, working closely with them to develop and manufacture products that meet their specific needs and requirements. We offer competitive pricing for our pharmaceutical products and contract manufacturing services, making them an attractive option for customers looking for quality products and services at affordable prices.</p>
-                                                        <p>We offer flexibility in terms of our product offerings and services. We work closely with customers to develop customized solutions that meet their specific needs and requirements.</p>
+														<p>At MyGenic Healthcare Pvt. Ltd., we provide pharmaceutical products that are of the highest quality and meet all industry standards and regulations. We use advanced technologies and processes to ensure our products are safe and effective.</p>
+                                                        <p>Our specialty is exporting pharmaceutical products to different countries around the world. Our team consists of experienced professionals who understand the complexities of international trade and following regulations.</p>
+                                                        <p>As a leading contract manufacturer, we offer personalized solutions to our clients. We work closely with them to develop and produce pharmaceutical products that are specific to their needs and requirements. Our competitive pricing for both our products and contract manufacturing services makes us an attractive choice for customers looking for high-quality at affordable prices.</p>
+                                                        <p>We value flexibility in our product offerings and services. We collaborate closely with our customers to create customized solutions that address their unique preferences and requirements.</p>
 													</div>
 												</div>
 											</div>

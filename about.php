@@ -43,8 +43,8 @@
                             <h2>ABOUT US</h2>
                             <div class="separator"></div>
                         </div>
-                        <div class="text">We are a leading pharmaceutical company dedicated to providing high-quality products and services to businesses in the healthcare industry. With our extensive expertise, cutting-edge technologies and commitment to excellence, we aim to be your trusted partner in achieving success and improving patient outcomes.</div>
-                        <div class="text">We are one of the leading Exporter of a premium range of Pharmaceutical Tablets, Pharmaceutical Injection & Anti Cancer Capsules and many more.<br> <b>"We have experties in pharmaceutical products from 25 years!"</b> </div>
+                        <div class="text">We are a leading pharmaceutical company that specializes in providing high-quality products and services to healthcare organizations. Our aim is to become your reliable partner in achieving success and improving patient outcomes by utilizing our vast expertise, advanced technologies, and dedication to delivering the best.</div>
+                        <div class="text">We are known as one of the leading exporters of high-quality pharmaceutical tablets, injections, anti-cancer capsules, and other related products.<br> <b>"We have experties in pharmaceutical products from 25 years!"</b> </div>
                     </div>
                 </div>
 
@@ -78,7 +78,7 @@
 							<div class="content">
 								<h3><a href="#">OUR MISSION</a></h3>
                                 <div class="separator"></div>
-								<div class="text">Our mission at MyGenic Healthcare Private Limited is to provide high-quality, affordable pharmaceutical products to patients around the world. We are committed to developing innovative solutions to complex health challenges and improving patient outcomes through research and development, clinical trials, and partnerships with healthcare professionals.</div>
+								<div class="text">At MyGenic Healthcare Pvt. Ltd., our goal is to provide affordable and high-quality pharmaceutical products to patients all around the world. We are dedicated to creating new and effective solutions for challenging health issues by conducting research, and clinical trials, and working together with healthcare professionals. Our mission is to improve patient outcomes and make a positive impact on global healthcare.</div>
 							</div>
 						</div>
 					</div>
@@ -94,7 +94,7 @@
 							<div class="content">
 								<h3><a href="#">OUR VISION</a></h3>
                                 <div class="separator"></div>
-								<div class="text">Our vision at MyGenic Healthcare Private Limited is to become a global leader in the pharmaceutical industry, known for our excellence in research and development, quality products, and customer-centric approach. We aim to improve the lives of patients and make a significant contribution to global healthcare through our commitment to innovation, sustainability, and social responsibility.</div>
+								<div class="text">At MyGenic Healthcare Pvt. Ltd., our vision is to become a worldwide leader in the pharmaceutical field. We aim to be recognized for our outstanding research and development, excellent products, and customer-centered approach. Our objective is to enhance the well-being of patients and create a significant influence on global healthcare. We are dedicated to innovation, sustainability, and being socially responsible in everything we undertake.</div>
 							</div>
 						</div>
 					</div>
