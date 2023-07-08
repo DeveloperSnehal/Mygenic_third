@@ -610,13 +610,13 @@
 
 							<div class="thumb-item">
 
-								<figure class="thumb-box"><img src="images/testimonials/testimonial-1.png" alt=""></figure>
+								<figure class="thumb-box"><img src="images/testimonials/profile1.png" alt=""></figure>
 
 								<div class="author-info">
 
-									<div class="author-name">Jatin Chopra</div>
+									<!-- <div class="author-name">Jatin Chopra</div>
 
-									<div class="designation">Production Executive</div>
+									<div class="designation">Production Executive</div> -->
 
 								</div>
 
@@ -624,13 +624,13 @@
 
 							<div class="thumb-item">
 
-								<figure class="thumb-box"><img src="images/testimonials/testimonial-2.png" alt=""></figure>
+								<figure class="thumb-box"><img src="images/testimonials/profile2.png" alt=""></figure>
 
 								<div class="author-info">
 
-									<div class="author-name">Shweta Chavhan</div>
+									<!-- <div class="author-name">Shweta Chavhan</div>
 
-									<div class="designation">Analytical Chemist</div>
+									<div class="designation">Analytical Chemist</div> -->
 
 								</div>
 
@@ -638,13 +638,13 @@
 
 							<div class="thumb-item">
 
-								<figure class="thumb-box"><img src="images/testimonials/testimonial-3.png" alt=""></figure>
+								<figure class="thumb-box"><img src="images/testimonials/profile1.png" alt=""></figure>
 
 								<div class="author-info">
 
-									<div class="author-name">Nikhil Shinde</div>
+									<!-- <div class="author-name">Nikhil Shinde</div>
 
-									<div class="designation">R and D chemist</div>
+									<div class="designation">R and D chemist</div> -->
 
 								</div>
 
@@ -661,11 +661,11 @@
 
 		<!-- Team Section -->
 
-		<section class="team-section">
+		<!-- <section class="team-section">
 
 				<div class="auto-container">
 
-					<!-- Sec Title -->
+					<!-- Sec Title --
 
 					<div class="sec-title centered">
 
@@ -677,7 +677,7 @@
 
 					<div class="row clearfix">
 
-						<!-- Team Block -->
+						<!-- Team Block --
 
 						<div class="team-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
 
@@ -720,7 +720,7 @@
 
 
 
-						<!-- Team Block -->
+						<!-- Team Block --
 
 						<div class="team-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
 
@@ -764,7 +764,7 @@
 
 
 
-						<!-- Team Block -->
+						<!-- Team Block --
 
 						<div class="team-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
 
@@ -808,7 +808,7 @@
 
 
 
-						<!-- Team Block -->
+						<!-- Team Block --
 
 						<div class="team-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
 
@@ -851,7 +851,7 @@
 						</div>
 					</div>
 				</div>
-        </section>
+        </section> -->
 
 <!-- End Team Section -->
 

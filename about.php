@@ -185,14 +185,14 @@
 	<!-- End Services Section Two -->
 
 <!--------------------------------FACTSHEET---------------------------------------------->
-<section id="ourproducts" class="doctor-detail">
+<!-- <section id="ourproducts" class="doctor-detail">
         <div class="container">
           <div class="sec-title centered">
                 <h2>FACTSHEET</h2>
                 <div class="separator"></div>
             </div>
             <div class="row">
-               <!-------------second-colum----------------->
+               <!-------------second-colum-----------------
                 <div class="col-lg-12 col-md-12 col-sm-12 mt-2 card">
                     <div class="row">
                         <div class="container">
@@ -375,7 +375,7 @@
             </div>
         </div>
     </section>
-</section>
+</section> -->
 
 
 	<!-- Department Section Two -->
